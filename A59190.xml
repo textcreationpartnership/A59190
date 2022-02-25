@@ -1,0 +1,2133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L. Annaeus Seneca's Troas a tragedy / translated from the Latine by J. Ta.</title>
+            <title>Troades. English</title>
+            <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59190</idno>
+            <idno type="STC">Wing S2529</idno>
+            <idno type="STC">ESTC R10479</idno>
+            <idno type="EEBO-CITATION">11907269</idno>
+            <idno type="OCLC">ocm 11907269</idno>
+            <idno type="VID">50745</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50745)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 511:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>L. Annaeus Seneca's Troas a tragedy / translated from the Latine by J. Ta.</title>
+                  <title>Troades. English</title>
+                  <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D.</author>
+                  <author>Talbot, James, d. 1708.</author>
+               </titleStmt>
+               <extent>[8], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jacob Tonson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translator believed to have been James Talbot. Cf. NUC pre-1956.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50745:1"/>
+            <pb facs="tcp:50745:1" rendition="simple:additions"/>
+            <p>
+               <hi>L. Annaeus Seneca's</hi> TROAS. A TRAGEDY. Tranſlated from the <hi>Latine</hi> by <hi>J. T.</hi>
+            </p>
+            <q>
+               <hi>Conamur tenues grandia</hi>—<bibl>Horat.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Jacob Tonſon,</hi> at the <hi>Judges-Head</hi> in <hi>Chancery-lane,</hi> near <hi>Fleetſtreet.</hi> 1686.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50745:2"/>
+            <pb facs="tcp:50745:2"/>
+            <head>TO THE RIGHT HONOURABLE CHARLES EARL OF Shrewsbury, &amp;c.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Should never have ventured to expoſe this Trifle to the Cenſures of the World, had I not at the ſame time an Ambition to ex<g ref="char:EOLhyphen"/>preſs, though not in the Work it ſelf, at leaſt in the Dedication of it, the ardent Deſires I had to lay both It and My Self at your Lordſhips Feet; being very well aſſured, that the ſweetneſs of Your Diſpoſition will pardon the many Imperfections, which the Acuteneſs of Your Judgment cannot but diſcern. This Play, my Lord being neither written by the Author, nor fitted' by the Tranſ<g ref="char:EOLhyphen"/>lator, to the Humour and Reliſh of the preſent
+<pb facs="tcp:50745:3"/>Age, and conſequently having never ſtood the Teſt of a publick Theatre; would have ſmall En<g ref="char:EOLhyphen"/>couragement to appear abroad, were it not ſuffi<g ref="char:EOLhyphen"/>ciently warranted by the Protection of Your Lordſhips Name: a Name, that as it has been the Terror of <hi>France,</hi> ſo it is the Pride of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> a Name, that having in your Victorious Anceſtors ſo bravely maintain'd the Honour and Reputation of Your Family, and Your Coun<g ref="char:EOLhyphen"/>try, cannot but cheriſh as well as defend what<g ref="char:EOLhyphen"/>ever flies to Its great Protection. With theſe Hopes, my Lord, I have preſumed to inſcribe the following Tranſlation to your Lordſhip, ho<g ref="char:EOLhyphen"/>ping, that as it was the Fruit of my vacant Hours, ſo it will be the Diverſion of yours; which is the utmoſt Ambition of,</p>
+            <closer>
+               <signed>Your Lordſhip's moſt Obedient, Humble Servant, <hi>J. T.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50745:3"/>
+            <head>TO THE READER,</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Was informed ſince the finiſhing of this Tranſlation, that <hi>Seneca</hi> has been taught ſome time ſince to ſpeak ſuch Lan<g ref="char:EOLhyphen"/>guage as the Times afforded; But I know not why That ſhould diſchurage Me, or ſome better <hi>Genius</hi> (that I hope, will continue what I have but imperfectly begun) from the like At<g ref="char:EOLhyphen"/>tempt, any more than <hi>Hopkins</hi> and <hi>Sternhold's</hi> Tranſlation of <hi>David</hi>'s Pſalms (how blindly ſoever admitted and retained by the Vulgar) ſhould deter a modern Pen from teaching him better <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> and <hi>Sence</hi> than They have done. I ſhould not have preſumed, after the late Earl of <hi>Rocheſter,</hi> to have tranſlated the Second <hi>Chorus</hi> of this Play, had I either ſeen it, or heard of it before I had finiſh'd this: but ſince my Lord's is a Paraphraſe, and Mine only a Tranſlation, I have ventured to place my Own, with all its Imperfections, among the reſt, that the whole Work may be of a Piece: neither ſhall I bluſh to own my ſelf out-done by a Perſon, ſo much better than the Beſt of this Age.</p>
+            <p>The Stile of the Author, through this whole Play, is ſo noble, and the Moral part of it, for the generality, ſo good; that it is ſup<g ref="char:EOLhyphen"/>poſed by thoſe Learned Criticks, <hi>Scaliger,</hi> and <hi>Heinſius,</hi> to have been written by <hi>Seneca</hi> the Philoſopher. I have endeavoured for
+<pb facs="tcp:50745:4"/>the moſt part, to render Him into <hi>Engliſh</hi> as faithfully as I could, being very ſenſible, that to diminiſh any thing from ſo perfect a Piece, would be a great wrong to my Author; and to add any thing to it, no leſs preſumption in my ſelf; only where his Senten<g ref="char:EOLhyphen"/>ces were more pithy, and conciſe than either the Defect of our Tongue, or of my Self, would permit me to be, I have been forced to render Him more at large: the cloſeneſs of his Language in ſe<g ref="char:EOLhyphen"/>veral places being ſuch, that what an Eminent Author has lately ſaid of <hi>Virgil,</hi> may juſtly be applied to Him, that he ſeems to have la<g ref="char:EOLhyphen"/>boured not to be Tranſlated. The Third <hi>Chorus</hi> I was forced to ſhorten, the endleſs and fruitleſs Enumeration of ſo many ſeveral Countries, being a fitter Work for a Geographer than a Poet. For the reſt, Courteous Reader (for ſuch I hope to find you,) I ſhall be very glad if the many Perfections of the Author can reconcile you to all the Failings of the Tranſlator, who, as he wrote it at firſt to pleaſe Himſelf, now prints it to gratifie his Friends; and for them that are not ſuch, he neither begs their Candor, nor fears their Cen<g ref="char:EOLhyphen"/>ſure.</p>
+            <pb facs="tcp:50745:4"/>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:50745:5"/>
+            <head>Dramatis Perſonae.</head>
+            <list>
+               <head>Grecians.</head>
+               <item>Agamemnon, <hi>General of the</hi> Grecian <hi>Army.</hi>
+               </item>
+               <item>Pyrrhus, <hi>Son to</hi> Achilles.</item>
+               <item>Ulyſſes, <hi>a</hi> Grecian <hi>Commander.</hi>
+               </item>
+               <item>Talthybius, <hi>an Officer in the Army.</hi>
+               </item>
+               <item>Calchas, <hi>a Prieſt.</hi>
+               </item>
+               <item>Helena, <hi>Wife to</hi> Menelaus, <hi>and Miſtreſs to</hi> Paris.</item>
+            </list>
+            <list>
+               <head>Trojans.</head>
+               <item>Hecuba, <hi>Wife to</hi> Priam.</item>
+               <item>Andromache, <hi>Wife to</hi> Hector.</item>
+               <item>Aſtyanax, <hi>Son to</hi> Hector <hi>and</hi> Andromache.</item>
+               <item>Polyxena, (Muta Perſona) <hi>Daughter to</hi> Priam <hi>and</hi> Hecuba.</item>
+               <item>
+                  <hi>An old</hi> Trojan.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>A Meſſenger.</hi> 
+               </item>
+               <item>
+                  <hi>Chorus.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb n="1" facs="tcp:50745:5"/>
+            <head>Seneca's Troas.</head>
+            <div n="1" type="act">
+               <head>ACT I.</head>
+               <stage>
+                  <hi>Enter</hi> Hecuba ſola.</stage>
+               <sp>
+                  <lg>
+                     <l>WHO e're thou art, that truſteſt to a Crown,</l>
+                     <l>And ſlight'ſt th' inconſtant Deities, look down</l>
+                     <l>On <hi>Troy</hi> and Me: for ne'r did angry Fate</l>
+                     <l>Shew truer Emblems of th' incertain State,</l>
+                     <l>The ſhort liv'd Power, and Downfall of the Great.</l>
+                     <l>In th' humble Duſt rich <hi>Aſia</hi>'s Pride does lie;</l>
+                     <l>Nor could its Builders give It Immortality.</l>
+                     <l>In vain did <hi>Memnon,</hi> and bold <hi>Rheſus</hi> come,</l>
+                     <l>Not to prevent, but ſadly ſhare our Doom.</l>
+                     <l>In her own Aſhes <hi>Troy</hi> a Grave has found,</l>
+                     <l>And her proud Tow'rs are levell'd with the ground.</l>
+                     <l>The greedy Flamens invade the ambient Skies,</l>
+                     <l>As if they w'd reach the cruel Deities:</l>
+                     <pb n="2" facs="tcp:50745:6"/>
+                     <l>Nor will their rage her very Ruines ſpare,</l>
+                     <l>But preys upon her Aſhes—See! the Air</l>
+                     <l>In Clouds of Smoak has loſt its native light,</l>
+                     <l>And <hi>Troy</hi> muſt ſuffer an eternal Night.</l>
+                     <l>With cruel Joy they view their helpleſs Prey,</l>
+                     <l>Too great a Recompence for Ten years ſtay.</l>
+                     <l>They fear her ſtill, and ſcarce believe their Eye,</l>
+                     <l>Proud of ſo great, ſo quick a Victory.</l>
+                     <l>See how rich <hi>Ilium</hi>'s wealthy Spoils they tear:</l>
+                     <l>More Trophies than their Thouſand Ships can bear.</l>
+                  </lg>
+                  <lg>
+                     <l>Witneſs ye Gods, ye Authors of our Woe:</l>
+                     <l>Ye dear Remains of my poor Country too;</l>
+                     <l>And Thou, poor Prince! whoſe cruel Deſtiny</l>
+                     <l>Prevented Age, and buried <hi>Troy</hi> with Thee.</l>
+                     <l>Witneſs my <hi>Hector</hi>'s Ghoſt, the Fate of <hi>Troy;</hi>
+                     </l>
+                     <l>The <hi>Grecian</hi>'s Terror, and his Countrey's Joy</l>
+                     <l>And ye, unhappy Off-ſpring of my Womb,</l>
+                     <l>Ye leſſer Shades, whatever fatal Doom</l>
+                     <l>From my ill-boding Daughters mouth could come,</l>
+                     <l>I ſaw it firſt, and did my ſears expreſs;</l>
+                     <l>Nor was <hi>Caſſandra</hi> only avain Propheteſs.</l>
+                     <l>'Twas not <hi>Tydide</hi>'s Sword, <hi>Ulyſſes</hi> skill</l>
+                     <l>Unhappy <hi>Ilium</hi>'s richeſt blood could ſpill:</l>
+                     <l>Nor could the perjur'd <hi>Sinon</hi>'s crafty wile</l>
+                     <l>The credulous King with ſpecious Lyes beguile</l>
+                     <l>In Me, O <hi>Troy,</hi> thoſe fatal ſeeds were ſown:</l>
+                     <l>I bore thy Funeral Torch. (Oh that it were my own!)</l>
+                  </lg>
+                  <lg>
+                     <l>But why thus long do I deplore the Fate</l>
+                     <l>Of <hi>Troy?</hi> Her ſufferings are grown out of date,</l>
+                     <l>And yield to freſher ſorrows—</l>
+                     <pb n="3" facs="tcp:50745:6"/>
+                     <l>I ſaw Old <hi>Priam</hi>'s blood at th' Altar ſpilt;</l>
+                     <l>The Altar bluſh'd at cruel <hi>Pyrrhus</hi> guilt.</l>
+                     <l>I ſaw him twiſt thoſe ſilver hairs a round</l>
+                     <l>His curſed hand, and drag him on the ground.</l>
+                     <l>Then (Oh! why live I to ſpeak out the reſt?)</l>
+                     <l>He ſheath'd his Sword in <hi>Priam</hi>'s willing breaſt.</l>
+                     <l>Nor Fear, nor Pity could withhold his hands</l>
+                     <l>From ſhaking out the few remaining ſands</l>
+                     <l>Of his ſhort life, though all the Gods ſtood by;</l>
+                     <l>But They too triumph'd in our Miſery.</l>
+                     <l>
+                        <hi>Troy</hi>'s better Genius, and great <hi>Hector</hi>'s Sire</l>
+                     <l>Amidſt thoſe Flames, muſt want a Funeral Fire.</l>
+                  </lg>
+                  <lg>
+                     <l>Nor are the cruel Gods yet ſatisfy'd:</l>
+                     <l>See how the Lots our Progeny divide,</l>
+                     <l>A mournful Prey to th' Victors Luſt and Pride.</l>
+                     <l>One ſeeks <hi>Antenor</hi>'s, t'other <hi>Hector</hi>'s Wife:</l>
+                     <l>
+                        <hi>Caſſandra</hi> too is now become their Strife.</l>
+                     <l>Each ſhuns My Lot, of Me they'r all afraid:</l>
+                     <l>Oh! whoſe unhappy Slave muſt I be made?</l>
+                     <l>Why, wretched Subjects, why d'ye ceaſe to cry,</l>
+                     <l>My Equals now in all, but Miſery.</l>
+                     <l>The mournful noiſe to fatal <hi>Ida</hi> ſend,</l>
+                     <l>And with loud cries his hollow Vallies rend:</l>
+                     <l>Reach his proud Top, though it aſcend to Heav'n,</l>
+                     <l>And teach him to repeat thoſe Griefs, which There were giv'n.</l>
+                  </lg>
+               </sp>
+               <stage>
+                  <hi>Chorus of</hi> Trojan <hi>Women, and</hi> Hecuba.</stage>
+               <sp>
+                  <l>You need not teach us to ſhed Tears:</l>
+                  <l>We've practs'd it for many Years;</l>
+                  <pb n="4" facs="tcp:50745:7"/>
+                  <l>E're ſince unhappy <hi>Paris</hi> went to <hi>Greece,</hi>
+                  </l>
+                  <l>And taught our Pines to plough the Seas.</l>
+                  <l>Ten times has <hi>Ida</hi>'s head been clad with Snow;</l>
+                  <l>(<hi>Ida</hi> the ſharer of our Woe,</l>
+                  <l>Our Griefs have made Him bare and naked too.)</l>
+                  <l>Ten times has th'Harveſt crown'd our Fields,</l>
+                  <l>And every day freſh Troubles yields:</l>
+                  <l>Give You the Signal with up-lifted hands;</l>
+                  <l>Our Sorrows ſhall prevent, and out-do your Com<g ref="char:EOLhyphen"/>mands.</l>
+               </sp>
+               <sp>
+                  <speaker>Hecub.</speaker>
+                  <l>Come dear Companions of my Miſery,</l>
+                  <l>Looſe, Looſe your hair, and let it fly</l>
+                  <l>About your Necks; your Arms prepare,</l>
+                  <l>And your diſhevell'd Treſſes tear:</l>
+                  <l>Your naked Beauties now diſplay:</l>
+                  <l>Let Modeſty to Grief give way;</l>
+                  <l>And let your Garments looſely flow.</l>
+                  <l>So—this is right: and now I know</l>
+                  <l>The <hi>Trojan</hi> Dames—Now all your Griefs renew.</l>
+                  <l>Your Sighs for ſmaller Loſſes keep:</l>
+                  <l>For <hi>Hector</hi>'s Death a more than common ſorrow ſhew;</l>
+                  <l>For <hi>Hector</hi> now let's weep.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Great <hi>Hecuba</hi> we have obey'd,</l>
+                  <l>And each has ſtrew'd <hi>Troy</hi>'s Aſhes on her head.</l>
+               </sp>
+               <sp>
+                  <speaker>Hec.</speaker>
+                  <stage>Takes up a handful of Aſhes.</stage>
+                  <l>Fill, fill your hands. This ſurely is our own.</l>
+                  <l>Now fling thoſe uſeleſs Veſtures down.</l>
+                  <l>Now Sorrow all thy forces try,</l>
+                  <l>Now all thy skill apply.</l>
+                  <l>Let <hi>Rhaetus</hi> join with us, and mourn;</l>
+                  <l>Let hollow Ecchos the ſad noiſe return:</l>
+                  <pb n="5" facs="tcp:50745:7"/>
+                  <l>In loudeſt Accents let each Rock repeat</l>
+                  <l>All <hi>Ilium</hi>'s Groans—Beat, wretched Matrons, beat</l>
+                  <l>Your breaſts, and let Them eccho too;</l>
+                  <l>Let's weep for <hi>Hector</hi> now.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>To Thee we pay theſe Tears, we ſend theſe Cries;</l>
+                  <l>Accept theſe mournful Obſequies.</l>
+                  <l>Thou ſhed'ſt thy Blood for Us; and we</l>
+                  <l>In gratitude do ſo for Thee.</l>
+                  <l>Thou wer't thy tottering Country's Prop,</l>
+                  <l>Her Guardian Angel, and her only Hope:</l>
+                  <l>By thee ſhe ſtood, with thee ſhe fell,</l>
+                  <l>Thy nobleſt Monument: how well</l>
+                  <l>Did one day finiſh both your Fates—</l>
+               </sp>
+               <sp>
+                  <speaker>Hec.</speaker>
+                  <l>Change, change your Griefs: let's give ſome proof</l>
+                  <l>Of Love to <hi>Priam; Hector</hi> hath enough.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Accept this mournful Tribute of our Eyes,</l>
+                  <l>Thou who haſt ſuffer'd two Captivities.</l>
+                  <l>Twice have the <hi>Grecian</hi> Weapons pierc'd our Hearts;</l>
+                  <l>Twice have we felt <hi>Alcides</hi> Darts.</l>
+                  <l>And thou, brave Prince, who could'ſt no more enjoy</l>
+                  <l>Thy valiant Sons, ſcorn'ſt to out-live thy <hi>Troy.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>Hec.</speaker>
+                  <l>Let us our Grief to ſome ſad Object turn;</l>
+                  <l>For <hi>Priam</hi>'s Death we need not mourn,</l>
+                  <l>Since our own ſufferings teach us to expreſs</l>
+                  <l>Not Grief for's Death, but Joy for's Happineſs.</l>
+                  <l>Sing Happy <hi>Priam</hi> now; for he</l>
+                  <l>With Death has purchas'd Liberty.</l>
+                  <l>The <hi>Grecian</hi> Yoke he ne're will bear;</l>
+                  <l>Nor need he great <hi>Atrides,</hi> or <hi>Ulyſſes</hi> fear.</l>
+                  <pb n="6" facs="tcp:50745:8"/>
+                  <l>He cannot now their Scorn, and Triumph be;</l>
+                  <l>Nor feel their glorious Bonds, and gilded Slavery.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>Thrice happy <hi>Priam</hi> ſing we all,</l>
+                  <l>Who with great <hi>Troy</hi> did'ſt fall.</l>
+                  <l>Thou ſafely wander'ſt through th' <hi>Elyſian</hi> Grove,</l>
+                  <l>And ſeeſt the darling Object of thy Love.</l>
+                  <l>O happy <hi>Priam!</hi> happy, who</l>
+                  <l>With thy own Fall, haſt ſeen thy Country's too.</l>
+               </sp>
+            </div>
+            <div n="2" type="act">
+               <head>ACT II.</head>
+               <stage>
+                  <hi>Enter</hi> Talthybius.</stage>
+               <sp>
+                  <speaker>Talthybius,</speaker>
+                  <l>WHat long delays our luckleſs Fleet attend,</l>
+                  <l>Whether they come from <hi>Greece,</hi> or thither bend?</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>What ſtays the <hi>Grecian</hi> Ships? <hi>Talthybius,</hi> ſay;</l>
+                  <l>What angry God does once more ſtop your way?</l>
+               </sp>
+               <sp>
+                  <speaker>Tal.</speaker>
+                  <lg>
+                     <l>My trembling joints are looſen'd all with fear,</l>
+                     <l>And I am quite unmann'd—Prepare to hear</l>
+                     <l>Monſters beyond belief—</l>
+                     <l>Scarce had the Sun with his returning Ray</l>
+                     <l>Gilded the World, and wak'd the new-born Day;</l>
+                     <l>When ſtraight the labouring Earth ſent forth a Groan,</l>
+                     <l>And the vaſt Caverns of the Deep were ſhown;</l>
+                     <l>Each frighted Tree his trembling Leaves did move,</l>
+                     <l>And fearful noiſes fill'd the hallow'd Grove:</l>
+                     <pb n="7" facs="tcp:50745:8"/>
+                     <l>The Sea began to fear, and durſt not roar:</l>
+                     <l>His trembling Waves crept ſoftly by the Shoar.</l>
+                     <l>The clefted Earth unlock'd her mighty Womb,</l>
+                     <l>And ſtraight diſclos'd the great <hi>Achilles</hi> Tomb.</l>
+                     <l>So full of rage did the dread Prince appear,</l>
+                     <l>When firſt he taught the <hi>Thracians</hi> how to fear:</l>
+                     <l>Or when with heaps he choak'd up <hi>Xanthus</hi> flood,</l>
+                     <l>And ſtain'd his Silver ſtreams with <hi>Trojan</hi> blood:</l>
+                     <l>Or when he drag'd a-round with cruel Joy</l>
+                     <l>Dead <hi>Hector</hi>'s Corps, and cri'd I've conquer'd <hi>Troy.</hi>
+                     </l>
+                     <l>And thus he ſpake—(aloud the Valleys round,</l>
+                     <l>And frighten'd Shoar reſtor'd the dreadful ſound.</l>
+                  </lg>
+                  <q>
+                     <lg>
+                        <l>"Go, Wretches, go; ſhare your ill gotten Prey,</l>
+                        <l>"And triumph o'er my Aſhes: bear away</l>
+                        <l>"Once more thoſe ſpoils, for which ſo long I fought,</l>
+                        <l>"And with my richeſt blood ſo dearly bought.</l>
+                        <l>"Over my Parent-Sea, your faithleſs Navy ſteer:</l>
+                        <l>"Deſpiſe my Anger <hi>Greece!</hi> but know't ſhall coſt thee dear,</l>
+                        <l>"Till at my Shrine Old <hi>Priam</hi>'s Daughter dies,</l>
+                        <l>"And <hi>Pyrrhus</hi> vengeful Sword performs the Sacrifice.</l>
+                     </lg>
+                  </q>
+                  <lg>
+                     <l>He ſpoke—(Ye <hi>Grecians</hi> credit what I tell;)</l>
+                     <l>And ſtraight to ſhapeleſs Air unſeen he fell.</l>
+                     <l>The Sea laid by his anger, and grew kind;</l>
+                     <l>And danc'd to th' gentler murmurs of the Wind,</l>
+                     <l>Whilſt the glad <hi>Tritons</hi> in one Nuptial <hi>Corus</hi> joyn'd.</l>
+                  </lg>
+                  <stage>
+                     <hi>Exit</hi> Talthybius.</stage>
+               </sp>
+               <div n="2" type="scene">
+                  <pb n="8" facs="tcp:50745:9"/>
+                  <head>SCENE II.</head>
+                  <stage>
+                     <hi>Enter</hi> Agamemnon, Pyrrhus, <hi>and</hi> Calchas.</stage>
+                  <sp>
+                     <speaker>Pyrrhus.</speaker>
+                     <lg>
+                        <l>WHilſt with wing'd ſpeed our Ships do homewards fly,</l>
+                        <l>Muſt great <hi>Achilles</hi> unregarded lye?</l>
+                        <l>Is He forgot, whoſe conqu'ring Hand alone</l>
+                        <l>
+                           <hi>Troy</hi> and her mighty Bulwark has o'rethrown,</l>
+                        <l>And in one Day did for Ten Years attone?</l>
+                        <l>Had you deſir'd to give ſome nobler Proof</l>
+                        <l>Of gratitude, You could not do enough.</l>
+                        <l>See how each Soldier's laden with their Spoils;</l>
+                        <l>A noble Recompence for all his Toils.</l>
+                        <l>And did He, for ſuch poor Rewards as theſe,</l>
+                        <l>Shake off the Fetters of ignoble Eaſe?</l>
+                        <l>Did he for this, deſpiſe his Mothers Tears,</l>
+                        <l>And bravely laugh at her prophetick Fears?</l>
+                        <l>For this did he, inſpir'd with generous Rage,</l>
+                        <l>Chooſe a brave Death, before a long inglorious Age?</l>
+                        <l>And, when beſet with all Love's mighty Charms,</l>
+                        <l>Betray a more than Man-like Thirſt for Arms?</l>
+                     </lg>
+                     <lg>
+                        <l>When firſt proud <hi>Telephus</hi> would ſtop his way,</l>
+                        <l>And the Career of's growing Glories ſtay,</l>
+                        <l>He felt his yet unpractis'd Sword, and found</l>
+                        <l>From the ſame Hand a Remedy, and Wound.</l>
+                     </lg>
+                     <pb n="9" facs="tcp:50745:9"/>
+                     <lg>
+                        <l>
+                           <hi>Lyrneſſus</hi> next, and <hi>Thebes</hi> his Conqueſts prov'd;</l>
+                        <l>
+                           <hi>Cilla</hi> and <hi>Tenedos</hi> equally belov'd</l>
+                        <l>By <hi>Phaebus,</hi> felt his Arms, and <hi>Chryſe</hi> too</l>
+                        <l>Found what ſo young, ſo brave a man could do.</l>
+                        <l>Towns conquer'd, Nations captiv'd, Kings o'rethrown,</l>
+                        <l>Were early ſigns of what he would have done.</l>
+                        <l>He ſtill preſs'd on, and did freſh Glories trace:</l>
+                        <l>He there began, where others end the Race.</l>
+                        <l>So young a Victor this great Man appear'd,</l>
+                        <l>And made new Wars, whilſt he for War prepar'd.</l>
+                     </lg>
+                     <lg>
+                        <l>Nor was this all the mighty Prince has done;</l>
+                        <l>H' out-did himſelf in <hi>Hector</hi>'s Death alone:</l>
+                        <l>He bravely won, You baſely ſack the Town.</l>
+                     </lg>
+                     <lg>
+                        <l>Oh! I could ever on this Subject dwell!</l>
+                        <l>By him the brave unhappy <hi>Memnon</hi> fell,</l>
+                        <l>For whom in <hi>Sables</hi> ſad <hi>Aurora</hi> mourn'd,</l>
+                        <l>And the great Office of the Day adjourn'd.</l>
+                        <l>He ſaw him fall, and learn't from's Victory,</l>
+                        <l>That the Gods Sons, as well as common Men, muſt die.</l>
+                     </lg>
+                     <lg>
+                        <l>You'd gladly, did you his juſt Merits weigh,</l>
+                        <l>A Tribute of <hi>Mycenian</hi> Virgins pay</l>
+                        <l>T' his ſacred Aſhes—Gods! d' ye ſtart at this?</l>
+                        <l>Can You think this a cruel Sacrifice?</l>
+                        <l>You did not ſo, when, for falſe <hi>Helens</hi> ſake,</l>
+                        <l>You could an Offering of your Daughter make.</l>
+                        <l>And can ye, can ye, cruel Prince, deny</l>
+                        <l>To ſacrifice t' his Ghoſt an Enemy?</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <lg>
+                        <l>We're taught t' impute Youths Paſſions to their Age;</l>
+                        <l>But, <hi>Pyrrhus,</hi> thine's Hereditary Rage.</l>
+                        <pb n="10" facs="tcp:50745:10"/>
+                        <l>Your head-ſtrong Father's Heats we tamely bore,</l>
+                        <l>And ſhew'd our Patience equal to our Pow'r.</l>
+                        <l>Stain not, young Man, the great <hi>Achilles</hi> Shade</l>
+                        <l>With the baſe ſlaughter of a helpleſs Maid.</l>
+                        <l>Inſult not o're your Captives: learn, and know</l>
+                        <l>What They muſt ſuffer, and what You muſt do.</l>
+                        <l>Fierce Empires, like fierce Storms, are ſeldom long,</l>
+                        <l>Whilſt they that are leſs violent, are more ſtrong.</l>
+                        <l>If that coy Miſtreſs, Fortune, ſhould prove kind;</l>
+                        <l>(Fortune, that governs all things but the Mind)</l>
+                        <l>Let not our Pride, with her light Favours, riſe,</l>
+                        <l>But dread the Bounties of the too kind Deities.</l>
+                        <l>My very Victories have made me know,</l>
+                        <l>No State ſo mighty high, but it may fall as low.</l>
+                        <l>Too much, upon this ſuddain Change, we ſwell,</l>
+                        <l>Who only hold that Place, whence others fell.</l>
+                     </lg>
+                     <lg>
+                        <l>'Tis true, at firſt I bore my ſelf too high,</l>
+                        <l>Big with the Fortune of this Victory.</l>
+                        <l>But this one Thought does all my Pride allay,</l>
+                        <l>That ſhe which gives, can take her Gifts away.</l>
+                        <l>That which makes Others blind, has made Me ſee:</l>
+                        <l>
+                           <hi>Priam</hi> firſt taught me Pride, but now Humility.</l>
+                     </lg>
+                     <lg>
+                        <l>Think not that Honour's falſe deceitful Light,</l>
+                        <l>(Which I too well have known) can cheat my ſight:</l>
+                        <l>Think not the glitt'ring Emptineſs of State</l>
+                        <l>Can drown my Cares, or make my Crown no weight.</l>
+                        <l>Leſs than Ten Years may rob us of our Prey:</l>
+                        <l>Leſs than a Thouſand Ships may carry All away.</l>
+                     </lg>
+                     <lg>
+                        <l>I muſt confeſs, I came not to deſtroy,</l>
+                        <l>But by my Conqueſt to have puniſh'd <hi>Troy.</hi>
+                        </l>
+                        <pb n="11" facs="tcp:50745:10"/>
+                        <l>But all my weak Endeavours prov'd in vain;</l>
+                        <l>What pow'r a conquering Enemy can reſtrain?</l>
+                        <l>Honour, and brave Revenge taught them to fight,</l>
+                        <l>Encourag'd by the terrors of the Night.</l>
+                        <l>Their Swords once drawn, they I wore ſhould never reſt,</l>
+                        <l>Nor e're be ſheath'd, but in a <hi>Trojan</hi>'s breaſt.</l>
+                        <l>Too much on helpleſs Foes our Fury's ſpent:</l>
+                        <l>Conqueſt, and Death's a double Puniſhment.</l>
+                        <l>The Gods forbid that a weak Maid ſhould fall,</l>
+                        <l>And with her Murder grace his Funeral.</l>
+                        <l>'Tis I that muſt be guilty, if ſhe bleed:</l>
+                        <l>He that forbids not, when h' has power, encourages the Deed</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>And is this all?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <lg>
+                        <l>No, <hi>Pyrrhus,</hi> no; we'll raiſe</l>
+                        <l>His Name with laſting Monuments of Praiſe.</l>
+                        <l>Nations unknown to us ſhall hear his Fame,</l>
+                        <l>And Infants ſhall be taught to liſp his Name.</l>
+                     </lg>
+                     <lg>
+                        <l>But ſince with Blood we muſt appeaſe his Shade,</l>
+                        <l>Our faireſt <hi>Beeves</hi> an Off'ring ſhall be made:</l>
+                        <l>Whole <hi>Hecatombs</hi> we'll pay him every Year,</l>
+                        <l>Whoſe Blood may ſtand no Mother in a Tear.</l>
+                        <l>Ask not Rewards, which he would bluſh to take;</l>
+                        <l>Rewards, at which his generous Ghoſt would ſhake.</l>
+                        <l>For who will think that e're his Life was good,</l>
+                        <l>Whoſe Death muſt be appeas'd with Humane Blood?</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>Vain idle Prince, whom both Extremes poſſeſs,</l>
+                     <l>Fear in thy Sufferings, Pride in Happineſs!</l>
+                     <l>Does this new Miſtreſs your compaſſion move,</l>
+                     <l>To ſpare her, not for Pity, but for Love?</l>
+                     <pb n="12" facs="tcp:50745:11"/>
+                     <l>Think you the great <hi>Achilles</hi> Son to fright,</l>
+                     <l>And once more rob his Off-ſpring of their Right?</l>
+                     <l>No: with her Blood my Father's Ghoſt I'le feaſt,</l>
+                     <l>His Tomb the Altar, and my ſelf the Prieſt.</l>
+                     <l>Deny me this—by Heav'n, he ſhall receive</l>
+                     <l>A worthier Victim, fit for me to give.</l>
+                     <l>Since <hi>Priam</hi>'s dead, no Sacrifice ſo good</l>
+                     <l>T' appeaſe his Ghoſt, as <hi>Agamemnon</hi>'s Blood.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>A worthy Deed! when tamely he did yield,</l>
+                     <l>Your Father's poor Old Suppliant to have kill'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>He did not, as my Father's Suppliant die;</l>
+                     <l>I kill'd in him my Countries Enemy.</l>
+                     <l>But he (good Prince!) had Courage to appear</l>
+                     <l>Before my Father, when your ſlaviſh Fear</l>
+                     <l>Forc'd you t' imploy ſome bolder Meſſenger.</l>
+                     <l>You fear'd his wrath more than our Enemy:</l>
+                     <l>You that then durſt not Ask, how dare you now Deny?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>He did not fear! who, when our Navy lay</l>
+                     <l>To both the Elements a helpleſs Prey,</l>
+                     <l>Buried in Sloth and Pleaſure, lay along,</l>
+                     <l>Feaſting his wanton Ears with ſome lewd Song.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>But know, his peaceful Lute did <hi>Hector</hi> ſcare</l>
+                     <l>More than your loudeſt Inſtruments of war,</l>
+                     <l>When, in the midſt of all your Panick Fear,</l>
+                     <l>Kind Peace, and Safety reign'd ſecurely there.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>Yes! there was Peace, when <hi>Hector</hi>'s Father dare</l>
+                     <l>Amidſt our Fleet his bold Requeſts declare!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>'Tis God-like in a Prince, another Prince to ſpare.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>Why then by you did poor Old <hi>Priam</hi> die?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>I did but eaſe him of his Miſery.</l>
+                  </sp>
+                  <pb n="13" facs="tcp:50745:11"/>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>And muſt your Pity kill his Daughter too?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>Can this at laſt be thought a Crime by You?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>I ſpilt my own to ſave my Subjects Blood;</l>
+                     <l>A Prince's Darling is his Countries Good.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>What Law, what Pow'r a Victor's Sword can awe?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>Where there is none, ſhame muſt preſcribe a Law.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>A Conqueror's Pow'r is meaſur'd by his Will.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>Where that prevails, the Meaſure is but ill.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>Talk you theſe things to thoſe, whom Fate and I</l>
+                     <l>Have bravely free'd from Ten Years ſlavery?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>How, Hotſpur! and can <hi>Scyros</hi> make You proud?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>
+                        <hi>Scyros,</hi> that never bluſh'd with Brethrens Blood.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>A floating ſpot!—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>But in my Parent-Sea.</l>
+                     <l>Who knows not <hi>Atreus,</hi> and <hi>Thyeſtes</hi> noble Progeny?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>Go, Baſtard, go; thou fruit of ſtol'n Delight,</l>
+                     <l>Born of <hi>Achilles</hi> e're he yet durſt fight.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>Of that <hi>Achilles,</hi> whoſe great Anceſtors</l>
+                     <l>In Fame, or Blood ſhall never yield to Yours:</l>
+                     <l>To whom the frame of this great World obeys:</l>
+                     <l>
+                        <hi>Jove</hi> rules Heav'n, <hi>Aeacus</hi> the Shades, <hi>Thetis</hi> the Seas.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <l>Of that <hi>Achilles,</hi> whom weak <hi>Paris</hi> kill'd!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pyr.</speaker>
+                     <l>With whom no God dare yet engage in open Field.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Agam.</speaker>
+                     <lg>
+                        <l>I could, Young Man, would I exert my Power,</l>
+                        <l>Silence that Tongue, and bring that Spirit lower.</l>
+                        <l>But You b' our wonted Clemency, have found,</l>
+                        <l>We never make, but always heal a Wound.</l>
+                        <l>Let God-like <hi>Calchas</hi> finiſh our Debate:</l>
+                        <l>Him I'll obey; whate're he ſpeaks, is Fate.</l>
+                     </lg>
+                     <pb n="14" facs="tcp:50745:12"/>
+                     <lg>
+                        <l>
+                           <stage>
+                              <hi>To</hi> Calchas</stage> Thou, who, when angry Heav'n had ſtop'd our way,</l>
+                        <l>Shew'dſt both the Reaſon, and Rem'dy of our ſtay.</l>
+                        <l>Heav'ns Privy Counſellor, who know'ſt the Cauſe,</l>
+                        <l>And Change of things, and giv'ſt blind Mortals Laws:</l>
+                        <l>To whom each Bird, each Beaſt, each bearded Star,</l>
+                        <l>The ſtrange Viciſſitudes of Fate declare;</l>
+                        <l>Thou, whoſe prophetick Mouth has coſt me dear,</l>
+                        <l>Speak Heav'ns Commands, and all our Actions ſteer.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Cal.</speaker>
+                     <l>Your wiſh'd Return your wonted Giſts muſt buy,</l>
+                     <l>Not to be granted, till the Virgin die.</l>
+                     <l>Adorn'd with Nuptial Garments ſhe muſt come,</l>
+                     <l>And there be wedded to <hi>Achilles</hi> Tomb.</l>
+                     <l>This Sacrifice the angry Gods will pleaſe:</l>
+                     <l>This will the great—<hi>Pelidos'</hi> angrier Ghoſt appeaſe.</l>
+                     <l>Nor is this all the Deities deſire,</l>
+                     <l>But ſtill a nobler Victim they require.</l>
+                     <l>
+                        <hi>Troy</hi>'s other Hope, the Noble <hi>Hector</hi>'s Son</l>
+                     <l>From <hi>Ilium</hi>'s higheſt Tower muſt be caſt down.</l>
+                     <l>Then the kind Gods will ſend us proſperous Gales:</l>
+                     <l>Our Ships ſhall fill the Sea; the Wind our Sails.</l>
+                     <stage>Exeunt.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>CHORUS.</speaker>
+                     <l>IS't true? Or does ſome Fear our minds deceive,</l>
+                     <l>That Souls their Bodies do out-live?</l>
+                     <l>When any wretched Mortal dies,</l>
+                     <l>And his ſad Kindred cloſe his Eyes,</l>
+                     <pb n="15" facs="tcp:50745:12"/>
+                     <l>Does not Death finiſh all his Pain,</l>
+                     <l>But muſt he dye, to live again?</l>
+                     <l>Or rather, when our Bodies dye,</l>
+                     <l>And with our Breath, our Souls too flye,</l>
+                     <l>Is Death the End, and Cure of all our Miſery?</l>
+                     <l>Where're all-ſeeing <hi>Phaebus</hi> goes,</l>
+                     <l>Where're the watry Ocean flows,</l>
+                     <l>Nimbler than both, Time poſts away;</l>
+                     <l>Nor Gods, nor Men his Courſe can stay.</l>
+                     <l>Swift, as the rapid Orbs are hurl'd;</l>
+                     <l>Swift, as the Eye of this great World,</l>
+                     <l>Our baſty Sand does downwards run,</l>
+                     <l>Our Minutes fly, our Life is gone;</l>
+                     <l>And when the ſlipp'ry Gueſt takes flight,</l>
+                     <l>The reſt is long Oblivion, and eternal Night.</l>
+                     <l>As Smoak diſſolves into the Air,</l>
+                     <l>And Winds drive Clouds we know not where:</l>
+                     <l>So when poor Mortals breathe their laſt,</l>
+                     <l>Their Souls exhale too in a blaſt;</l>
+                     <l>And when the mighty Nothing diſappears,</l>
+                     <l>Death crowns our hopes, and cures our fears.</l>
+                     <l>What place muſt, after Death our Souls receive?</l>
+                     <l>That, where we lay, e're we began to live.</l>
+                     <l>Our Souls, as well as Bodies, die;</l>
+                     <l>And all is ſwallow'd up in vaſt Eternity.</l>
+                     <l>
+                        <hi>Pluto, Elyſium, Cerberus</hi> are nought</l>
+                     <l>But the looſe Image of a ſhapeleſs Thought.</l>
+                     <l>The Poet's, not the Wiſeman's Theam.</l>
+                     <l>The wild <hi>Idea</hi> of an empty Dream.</l>
+                  </sp>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <pb n="16" facs="tcp:50745:13"/>
+               <head>ACT III.</head>
+               <stage>
+                  <hi>Enter</hi> Andromache, Aſtyanax, <hi>and an Old</hi> Trojan.</stage>
+               <sp>
+                  <speaker>Andromache.</speaker>
+                  <l>WHY, wretched <hi>Phrygians,</hi> why d' ye tear your Hairs?</l>
+                  <l>Why ſwell your Breaſts with Sighs, your Cheeks with Tears?</l>
+                  <l>My Sorrows wear a ſadder Livery.</l>
+                  <l>
+                     <hi>Troy</hi> fell but Now to You, Long ſince to Me.</l>
+                  <l>When fierce <hi>Achilles</hi> my—lov'd <hi>Hector</hi> ſlew,</l>
+                  <l>And the dear Corps thrice round our City drew,</l>
+                  <l>The Chariot groan'd, and ſhook beneath Its weight,</l>
+                  <l>Whilſt each ſad <hi>Trojan</hi> fear'd approaching Fate.</l>
+                  <l>
+                     <hi>Hector,</hi> and <hi>Troy</hi> at the ſame time did fall:</l>
+                  <l>If Tears can quench our Sorrows, they're but ſmall.</l>
+                  <l>I that have Liv'd, would gladly Die his Wife,</l>
+                  <l>And ſhew my Death as faithful as my Life.</l>
+                  <l>But This ſad Pledge of our once happy Loves,</l>
+                  <l>My Fears increaſes, and my Pity moves.</l>
+                  <l>For His dear ſake I live againſt my will,</l>
+                  <l>And am contented to be wretched ſtill.</l>
+                  <l>My Care for Him has coſt me many a Tear,</l>
+                  <l>And robs my miſ'ries of the wretched comfort, not to Fear.</l>
+                  <pb n="17" facs="tcp:50745:13"/>
+                  <l>No Help, no Remedy for all my Care,</l>
+                  <l>But all is hopeleſs Sorrow, and Deſpair.</l>
+               </sp>
+               <sp>
+                  <speaker>Troj.</speaker>
+                  <l>Madam, what Fears diſtract your reſtleſs mind?</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Many are Paſt, but more are ſtill Behind.</l>
+                  <l>Alas! our Sufferings muſt be worſe, and more.</l>
+               </sp>
+               <sp>
+                  <speaker>Troj.</speaker>
+                  <l>What Curſes have the angry Gods in ſtore?</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>All, all the mighty Pow'rs of Hell break looſe:</l>
+                  <l>And Death it ſelf will triumph over Us.</l>
+                  <l>Had they not ſlain enough before they bled?</l>
+                  <l>But muſt they kill us too, even when they're Dead?</l>
+                  <l>Muſt none but <hi>Grecian</hi> Ghoſts return from Thence?</l>
+                  <l>I thought juſt Death had made no difference.</l>
+                  <l>Theſe are the common Sufferings of us All:</l>
+                  <l>But heavier Sorrows on my Head muſt fall.</l>
+               </sp>
+               <sp>
+                  <speaker>Troj.</speaker>
+                  <l>Speak, what ſad <hi>Omen</hi> has Heav'ns anger ſent?</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <lg>
+                     <l>'Twas, when two parts of the long Night were ſpent</l>
+                     <l>In Sighs and Tears, when ſlumber did ſurprize</l>
+                     <l>My weary Limbs, and clos'd my weeping Eyes.</l>
+                     <l>And ſtraight my lovely <hi>Hector</hi>'s Shade appear'd;</l>
+                     <l>Not like that <hi>Hector,</hi> whom the <hi>Grecians</hi> fear'd;</l>
+                     <l>When fierce as Lightning mongſt their Troops He flew,</l>
+                     <l>And many a treacherous <hi>Grecian</hi> bravely ſlew,</l>
+                     <l>And in the Feign'd <hi>Achilles'</hi> Death, did wound the True.</l>
+                     <l>Gone was the ſprightly Colour of his Face;</l>
+                     <l>Sorrow and Death had baniſh'd every Grace.</l>
+                     <l>Breathleſs, and pale by my Bedſide he ſtood:</l>
+                     <l>Stiff was his Hair, and clotted all with Blood.</l>
+                     <l>All Diſmal, and all Brave he did appear;</l>
+                     <l>At once he mov'd my Love, at once my Fear.</l>
+                     <pb n="18" facs="tcp:50745:14"/>
+                     <l>Once, and again his grieſly Locks he ſhook,</l>
+                     <l>And thus my dear, my dreadful <hi>Hector</hi> ſpoke:</l>
+                  </lg>
+                  <q>
+                     <lg>
+                        <l>"Thou equal Partner of my faithful Bed,</l>
+                        <l>"Dear while I Liv'd, and Conſtant now I'm Dead:</l>
+                        <l>"Dare not to ſleep, when Danger is ſo nigh;</l>
+                        <l>"With my poor Boy to ſome far Countrey fly,</l>
+                        <l>"Or in ſome ſecret Cavern let Him lie.</l>
+                        <l>"Weep not for <hi>Troy,</hi> your Tears will do no good;</l>
+                        <l>"But ſave the little Remnant of my Blood.</l>
+                     </lg>
+                  </q>
+                  <lg>
+                     <l>He ſpoke, and ſtraight He left my clouded ſight,</l>
+                     <l>And the looſe ſhape diſſolv'd into the Night.</l>
+                     <l>I woake, and ſtarting from my Bed amaz'd,</l>
+                     <l>Forſook my Child, and round about me gaz'd.</l>
+                     <l>The Airy Shade was loſt in my embrace,</l>
+                     <l>Whilſt Fear and Horror fill'd a-round the Place.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <stage>
+                           <hi>To</hi> Aſtyanax.</stage> Thou only, laſt, dear Hope of <hi>Troy</hi> and Me;</l>
+                     <l>The Cauſe, and Comfort of my Miſery:</l>
+                     <l>Too like my <hi>Hector,</hi> and too near his Blood,</l>
+                     <l>Born of a Race too noble, and too good;</l>
+                     <l>Such was thy warlike Father's lovely Face,</l>
+                     <l>The ſame was every Action, every Grace.</l>
+                     <l>Such were his Eyes, his Limbs ſo ſtraight and fair;</l>
+                     <l>Such was the Length, and Colour of his Hair.</l>
+                     <l>Too ſoon thou'rt born to Me; but, Oh! too late,</l>
+                     <l>Or to prevent thy Own, or thy poor Countries Fate.</l>
+                     <l>When will that dear, that wiſh'd-for Minute come,</l>
+                     <l>When I ſhall ſee Thee bravely leading Home</l>
+                     <l>Thy captive, baniſh'd, ſcatter'd Countrymen?</l>
+                     <l>When ſhall Old <hi>Troy,</hi> and We revive again?</l>
+                  </lg>
+                  <pb n="19" facs="tcp:50745:14"/>
+                  <lg>
+                     <l>Thus I deceive, and vainly ſooth my Grief,</l>
+                     <l>And dare not hope that Heav'n will ſend relief:</l>
+                     <l>Yet all my Hopes, and Fears are bound up in thy Life.</l>
+                  </lg>
+                  <lg>
+                     <l>Alas! what place, what refuge dare I truſt?</l>
+                     <l>Our ſtrongeſt Towers are buried in the Duſt:</l>
+                     <l>Of all the ſtately Structures of proud <hi>Troy,</hi>
+                     </l>
+                     <l>There's not enough remains to hide my Boy.</l>
+                  </lg>
+                  <lg>
+                     <l>There is a Tomb, where <hi>Hector</hi>'s Aſhes lie,</l>
+                     <l>Fear'd and untouch'd ev'n by the Enemy,</l>
+                     <l>A Monument of Old <hi>Priam</hi>'s pious Prodigality.</l>
+                     <l>Here he ſhall lay—Cold Sweat bedews my Face!</l>
+                     <l>I dread the <hi>Omen</hi> of the Fatal place.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Troj.</speaker>
+                  <l>Theſe timely Fears both You, and Him may ſave.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>With Him, my Hopes are buried in the Grave.</l>
+                  <l>What if ſome curious <hi>Greek</hi> my Fraud ſhould ſpy?</l>
+               </sp>
+               <sp>
+                  <speaker>Troj.</speaker>
+                  <l>Whate'er you do, be cloſe; truſt no man's Eye;</l>
+                  <l>But ſay, that one day buried Him, and <hi>Troy.</hi>
+                  </l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Should they but ſearch this Tomb, 'twould prove his Laſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Troj.</speaker>
+                  <l>A Conqueror's Rage is fierce, but quickly paſt.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>So dangerous a place I dare not truſt.</l>
+               </sp>
+               <sp>
+                  <speaker>Troj.</speaker>
+                  <l>Others may chooſe what Helps they pleaſe; let</l>
+                  <l>Him take what he muſt.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <lg>
+                     <l>To what far Region dare I truſt my Fears?</l>
+                     <l>What Hope, what Help, what Remedy appears?</l>
+                     <l>Thou, that didſt never fail, aſſiſt me now:</l>
+                     <l>
+                        <hi>Hector,</hi> avert this ſad, this fatal Blow.</l>
+                     <l>Ev'n in thy Death, give Me, and <hi>Troy</hi> relief,</l>
+                     <l>And let thy faithful Aſhes ſave his Life.</l>
+                  </lg>
+                  <pb n="20" facs="tcp:50745:15"/>
+                  <lg>
+                     <l>Haſte, haſte! get in, dear Boy; Oh! why doſt turn</l>
+                     <l>Away, and ſuch mean ſhifts too bravely ſcorn?</l>
+                     <l>See, He's aſham'd of Fear—Come, lay aſide</l>
+                     <l>This early Courage, and this uſeleſs Pride,</l>
+                     <l>And make the beſt of Fortune—</l>
+                     <l>See, what remains of <hi>Troy;</hi> great <hi>Hector</hi>'s Grave,</l>
+                     <l>A helpleſs Infant, and a wretched Slave.</l>
+                     <l>Into this hallow'd Vault undaunted come,</l>
+                     <l>In Life thy Refuge, and in Death thy Tomb.</l>
+                  </lg>
+                  <stage>She puts him into the Tomb.</stage>
+               </sp>
+               <sp>
+                  <speaker>Troj.</speaker>
+                  <l>So, now He's ſafe: and leſt your Fears betray</l>
+                  <l>Your Hopes, be wiſe, and quickly haſt away.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>The more I ſtay, the leſs ſtill grows my Fear,</l>
+                  <l>Whilſt its dear Object, my lov'd Boy's ſo near.</l>
+               </sp>
+               <sp>
+                  <speaker>Troj.</speaker>
+                  <l>But ſoft!—Theſly <hi>Ulyſſes</hi> does appear.</l>
+               </sp>
+               <stage>
+                  <hi>Enter</hi> Ulyſſes.</stage>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>
+                     <stage>Aſide.</stage> Earth, Hell, or Sea, unlock thy mighty Womb,</l>
+                  <l>And let my Boy into thy Centre come:</l>
+                  <l>Let Him for ever There ſecurely lie,</l>
+                  <l>Free from <hi>Ulyſſes</hi> fatal Treachery.</l>
+                  <l>Some wretched <hi>Phrygian</hi> to freſh woes he dooms,</l>
+                  <l>And big with ſome new Miſchief, hither comes.</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Madam, with Patience my ſad Meſſage bear,</l>
+                  <l>Think not <hi>Ulyſſes</hi> ſpeaks, what You muſt hear,</l>
+                  <l>But <hi>Greece,</hi> whoſe wiſh'd Return is ſought in vain,</l>
+                  <l>Whilſt the leaſt drop of <hi>Hector</hi>'s Blood remains.</l>
+                  <l>'Tis That that keeps our Wind-bound Navy here,</l>
+                  <l>As long as <hi>Troy</hi> can Hope, <hi>Greece</hi> ought to Fear.</l>
+               </sp>
+               <pb n="21" facs="tcp:50745:15"/>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Does this mad Oracle from <hi>Calchas</hi> come?</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Hector</hi> had taught us this, had He been dumb.</l>
+                     <l>
+                        <hi>Hector,</hi> whoſe very Name renews my Fears,</l>
+                     <l>In whoſe brave Son his Spirit too ſoon appears.</l>
+                  </lg>
+                  <lg>
+                     <l>So the Young Follower of ſome numerous Herd,</l>
+                     <l>Whoſe budding Horns ſcarce through his Skin appear'd,</l>
+                     <l>Straight as the ſprouting Branch adorns his Head,</l>
+                     <l>His mighty Father's Flock does proudly lead.</l>
+                  </lg>
+                  <lg>
+                     <l>The tender Sucker of ſome ancient Tree</l>
+                     <l>Spreads, like its Sire, and quickly ſhoots as high;</l>
+                     <l>Its Branches ſhade the Earth, Its Top out-braves the Sky:</l>
+                  </lg>
+                  <lg>
+                     <l>Juſt ſo a ſmall neglected Spark of Fire,</l>
+                     <l>Does to its great Original aſpire.</l>
+                  </lg>
+                  <lg>
+                     <l>Grief, Madam, is too partial a Judge;</l>
+                     <l>You could not elſe ſo ſmall a favour grudge;</l>
+                     <l>If the poor Souldier, after Ten long Years,</l>
+                     <l>Grown Old in Sufferings, a new <hi>Hector</hi> fears,</l>
+                     <l>In whom the only Hope of <hi>Troy</hi> appears.</l>
+                     <l>'Tis He alone our <hi>Remora</hi> does prove;</l>
+                     <l>And You alone can all our Fears remove.</l>
+                  </lg>
+                  <lg>
+                     <l>Now, leſt You think me cruel, who am come,</l>
+                     <l>Not by my Choice, but Fate, to ſpeak his Doom,</l>
+                     <l>Know, had the Lot appointed Me alone,</l>
+                     <l>I had not ſtuck to ask <hi>Atrides'</hi> Son.</l>
+                     <l>With <hi>Hector</hi>'s Courage all your Loſſes bear,</l>
+                     <l>And learn to ſuffer, from Your Conqueror.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <lg>
+                     <l>'Wou'd the dear Boy were lock'd within theſe Arms!</l>
+                     <l>Or that I knew what Fate, what Art, what Charms</l>
+                     <l>Had ſnatch'd him hence, not all Your haughty Words,</l>
+                     <l>Your ſtricteſt Tortures, or your ſharpeſt Swords</l>
+                     <pb n="22" facs="tcp:50745:16"/>
+                     <l>Should raviſh the dear Secret from my Heart,</l>
+                     <l>In which <hi>Aſtyanax</hi> claims the greateſt part.</l>
+                  </lg>
+                  <lg>
+                     <l>What Place, what Region hides my Joy, my Love?</l>
+                     <l>Doſt thou in ſome untrodden Deſart rove?</l>
+                     <l>Or do the Clouds of thy poor Countries Smoak,</l>
+                     <l>Thy dear, thy lovely Breath unkindly choak?</l>
+                     <l>Or doſt thou on the mournful <hi>Ida</hi> lay,</l>
+                     <l>To all its Birds and Beaſts a helpleſs Prey?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Think not, fond Woman, that thou art believ'd:</l>
+                  <l>Think not <hi>Ulyſſes</hi> is ſo ſoon deceiv'd.</l>
+                  <l>A thouſand Mothers wiles I could out-do,</l>
+                  <l>Though they were Deities, and Women too.</l>
+                  <l>Come, leave theſe uſeleſs Arts. Say, where's the Boy?</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Where's <hi>Priam, Hector, Paris?</hi> Where's all <hi>Troy?</hi>
+                  </l>
+                  <l>You look for One, but I for all muſt ſeek.</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Tortures, and Racks ſhall quickly make you ſpeak.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>They ſcorn your Threats, that dare, that wiſh to die.</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Death ſoon will cool this ſhort-liv'd Bravery.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Would'ſt make me Fear? Then threaten me with Life.</l>
+                  <l>For Death's the Cure, and not the Cauſe of Grief.</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <lg>
+                     <l>Are you ſo Brave? Our ſtiffeſt Racks ſhall tear</l>
+                     <l>It from your Breaſt, and teach you how to Fear.</l>
+                  </lg>
+                  <lg>
+                     <l>Tortures ſhall bend, or break your ſtubborn Will:</l>
+                     <l>Come, let not Raſhneſs hide, what Fear muſt ſoon reveal.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Death, Famine, Fire, and all the dreadful Train</l>
+                  <l>Of Torments, all the cruel'ſt Arts of Pain,</l>
+                  <l>All that a raging Conqueror's fury dare</l>
+                  <l>Inflict, and more for Him I w'd gladly bear.</l>
+               </sp>
+               <pb n="23" facs="tcp:50745:16"/>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Still reſolute!—This raſh, this ſtubborn Love,</l>
+                  <l>Does the like doubts, and fears in th' <hi>Grecians</hi> move.</l>
+                  <l>After a tedious War of Ten long Years,</l>
+                  <l>Leſs were the Danger, Madam, leſs our Fears,</l>
+                  <l>Were theſe the laſt; but we muſt dread new War:</l>
+                  <l>You for our Sons freſh Enemies prepare.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Muſt then—(And do I live to ask?) muſt We</l>
+                  <l>Heighten your Pleaſure by our Miſery?</l>
+                  <l>Rejoice, proud Prince, once more my Conqueror:</l>
+                  <l>My dear, my lov'd <hi>Aſtyanax</hi> is no more.</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Can this be true?—</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Even ſo may welcome Death</l>
+                  <l>Gently, and kindly ſtop my yielding Breath:</l>
+                  <l>So, when in Death, I, and my <hi>Hector</hi> meet,</l>
+                  <l>Soft may our Pillows be, our Slumbers ſweet,</l>
+                  <l>As in the Grave <hi>Aſtyanax</hi> is laid,</l>
+                  <l>And all the Funeral-Rites by wretched Me were paid.</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <lg>
+                     <l>The welcom News to th' <hi>Grecian</hi> Camp I'll bear;</l>
+                     <l>News, which each longing <hi>Greek</hi> will gladly hear.</l>
+                     <l>But ſtay!—</l>
+                     <l>The well-diſſembled Story I receive</l>
+                     <l>From Her, in whom 'tis Piety to deceive.</l>
+                     <l>Curſes to Her no longer they appear,</l>
+                     <l>Since made to ſave the All She reckons dear,</l>
+                     <l>And loſing that, She nothing elſe can fear.</l>
+                     <l>But She has ſolemnly and deeply ſworn—</l>
+                     <l>What can She ſuffer more than She has born?</l>
+                     <l>Now all thy Cunning, all thy Arts imploy:</l>
+                     <l>Be whole <hi>Ulyſſes;</hi> ſound the pious Lie,</l>
+                     <pb n="24" facs="tcp:50745:17"/>
+                     <l>And ſearch her Weakneſs—ſee her very Fears,</l>
+                     <l>Her Sighs, her Looks, her Walks betray her Fears,</l>
+                     <l>And every word I ſpeak, does wound her Ears.</l>
+                     <l>Her Fear exceeds her Sorrow—</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <stage>To her</stage> Others, indeed, may curſe the Crimes of Fate:</l>
+                     <l>Madam, Your Loſs we muſt congratulate.</l>
+                     <l>Had He ſurviv'd, he had but liv'd to fall</l>
+                     <l>Down the ſteep precipice of yon' Turret's wall.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>
+                     <stage>Aſide.</stage> I ſhake all o're! my frozen Blood does ſtart</l>
+                  <l>To the forſaken Channels of my Heart.</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <lg>
+                     <l>
+                        <stage>Aſide.</stage> See, ſee, She ſhakes—Once more I'll try her here,</l>
+                     <l>Whilſt her unwary Love betrays her Fear.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <stage>To his Attendants.</stage> Go—find the curſed Brat, where'er he lies;</l>
+                     <l>If Dead, we'll burn him; if Alive, he dies.</l>
+                     <l>'Tis well—We have him— <stage>To her.</stage> Ha! Why look you back?</l>
+                     <l>What fearful apprehenſions make you ſhake?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Wou'd I had Cauſe! With him my Fears are gone:</l>
+                  <l>But who can ſoon Forget what one has Learnt too long?</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Since he has periſh'd by a milder Fate,</l>
+                  <l>And Heav'n has publiſh'd Its Commands too late,</l>
+                  <l>To be obey'd; thus Learned <hi>Calchas</hi> ſays,</l>
+                  <l>Great <hi>Hector</hi>'s hallow'd Monument we muſt raze;</l>
+                  <l>And ſtrew his Aſhes in the neighbouring Seas.</l>
+                  <l>Now, ſince our juſt Requeſts you can refuſe,</l>
+                  <l>Heav'n muſt this pious Sacriledge excuſe.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <lg>
+                     <l>
+                        <stage>Aſide.</stage> What ſhall I do? From whether ſhall I part?</l>
+                     <l>Each claims an equal portion in my Heart.</l>
+                     <l>Witneſs, Ye Gods, by whom we were betray'd:</l>
+                     <l>Witneſs, thou greater God, my <hi>Hector</hi>'s ſhade:</l>
+                     <pb n="25" facs="tcp:50745:17"/>
+                     <l>Nothing ſo lovely in my Boy I ſee,</l>
+                     <l>As the dear Image that He bears of Thee.</l>
+                     <l>Then let Him live—But ſhall that ſacred place</l>
+                     <l>Be raz'd, and ſhall thy Aſhes ſtain the face</l>
+                     <l>Of the rude Ocean? Rather let him Die,</l>
+                     <l>And pay that Life again, which he receiv'd from Thee.</l>
+                  </lg>
+                  <lg>
+                     <l>But can I ſee the helpleſs Infant thrown,</l>
+                     <l>And rudely hurl'd from yon' high Turret down?</l>
+                     <l>I can, and will, but Oh! I cannot bear</l>
+                     <l>To ſee thy Aſhes ſcatter'd in the Air.</l>
+                     <l>The Boy has ſenſe, to feel their Cruelty;</l>
+                     <l>But Thou from Senſe, or Pain, too ſafe doſt lie.</l>
+                     <l>Which muſt I count the greater Miſery?</l>
+                     <l>How! Can I doubt?—On this ſide <hi>Hector</hi> lays.</l>
+                     <l>'Tis falſe—for <hi>Hector</hi> ſuffers either way.</l>
+                     <l>He lives; in Him my only Hopes appear:</l>
+                     <l>Then let him Live, whoſe Life the <hi>Grecians</hi> fear.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Break up the Tomb—</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>What! that which you have ſold?</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Nothing ſhall ſtay me—</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Hold! <hi>Ulyſſes,</hi> hold!</l>
+                  <l>By all that's good, or juſt, your Fury ſtay,</l>
+                  <l>And pleaſe the cruel Gods ſome other way.</l>
+                  <l>From this rude violence his dear Aſhes ſave.</l>
+                  <l>
+                     <hi>Pyrrhus,</hi> protect thoſe Gifts thy noble Father gave.</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>What angry Heav'n condemns, I may not ſpare.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <lg>
+                     <l>Your blackeſt Crimes did ne'er proceed ſo far.</l>
+                     <l>Our faireſt Temples ye have overthrown:</l>
+                     <l>The Shrines o'th' patient Gods y' have batter'd down;</l>
+                     <l>But Tombs have ſcap'd your Sacriledg alone.</l>
+                  </lg>
+                  <pb n="26" facs="tcp:50745:18"/>
+                  <lg>
+                     <l>
+                        <stage>Aſide.</stage> Shall I alone their well-arm'd Rage withſtand?</l>
+                     <l>Revenge ſhall ſtrengthen, Love ſhall guide my Hand.</l>
+                     <l>Juſt as the warlike Maid, amidſt her Troops</l>
+                     <l>Routed the faithleſs <hi>Greeks,</hi> and daſh'd their hopes:</l>
+                     <l>As the wild <hi>Maenade</hi> through the Woods did rove,</l>
+                     <l>And kill'd the darling Object of her Love:</l>
+                     <l>Thus I'll undaunted ruſh amongſt them all.</l>
+                     <l>And for His Aſhes Fight; or with them Fall.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>
+                     <stage>To his Attendants.</stage> Can a weak Womans Tears your Paſſions ſway?</l>
+                  <l>Or will you Heav'ns Commands, and Mine obey?</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Let me redeem Him, though my Life's the Price.</l>
+                  <l>Riſe, my lov'd <hi>Hector,</hi> from <hi>Elyſium</hi> riſe.</l>
+                  <l>Let thy weak Ghoſt their weaker Rage withſtand.</l>
+                  <l>He comes! he comes!—And ſee in yon' right hand,</l>
+                  <l>He ſhakes his Sword, and darts a dreadful light.</l>
+                  <l>And does not This your raſh Attempts affright?</l>
+                  <l>Or does the airy Phantome cheat my ſight?</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>You rave in vain: I'll break the Mon'ment down.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <lg>
+                     <l>
+                        <stage>Aſide.</stage> And ſhall one Ruin overwhelm my Husband and my Son?</l>
+                     <l>It muſt not be: I'll try ſome gentler way;</l>
+                     <l>And ſince I cannot Terrifie, I'll Pray.</l>
+                     <l>The Stone will quickly fall, as if 'twere meant</l>
+                     <l>To be at once his Death, and Monument.</l>
+                     <l>No: let his Blood ſome other way be ſpilt;</l>
+                     <l>Not ſtain his Father's Tomb with ſuch a Guilt.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <stage>To Him.</stage> See, great <hi>Ulyſſes,</hi> a ſad Mother ſee,</l>
+                     <l>That never Kneel'd to any man but Thee.</l>
+                     <pb n="27" facs="tcp:50745:18"/>
+                     <l>Let thy hard Heart be melted with my Tears;</l>
+                     <l>Pity my Sufferings, and receive my Prayers.</l>
+                     <l>Gently, Oh! gently all my Sorrows eaſe,</l>
+                     <l>Whate'er you grant the wretched, more will pleaſe</l>
+                     <l>Juſt Heav'n, than all the Pomp and Coſt of Sacrifice.</l>
+                     <l>So may you ſafe return, and end your Life</l>
+                     <l>I'th' chaſt Embraces of your faithful Wife:</l>
+                     <l>So may your lov'd <hi>Telemachus</hi> equalize</l>
+                     <l>His Grandſires Years, his Father's Policies;</l>
+                     <l>As You to Me and Him ſhall gentle prove.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Madam, produce the Boy, and truſt our Love.</l>
+               </sp>
+               <stage>
+                  <hi>Exit</hi> Andromache, <hi>and re-enters with</hi> Aſtyanax.</stage>
+               <sp>
+                  <speaker>Andromache.</speaker>
+                  <lg>
+                     <l>Come forth, unhappy Infant; come;</l>
+                     <l>Forſake thy noble Father's Tomb.</l>
+                     <l>See, great <hi>Ulyſſes,</hi> ſee, He's here,</l>
+                     <l>Whom all Your Thouſand Ships did fear.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <stage>
+                           <hi>To</hi> A<g ref="char:EOLhyphen"/>ſtyanax.</stage> Come, leave this uſeleſs Pride, thus low</l>
+                     <l>Beneath our Conqueror's Feet let's bow.</l>
+                     <l>Since Fortune cannot be withſtood,</l>
+                     <l>Forget the honour of thy Blood,</l>
+                     <l>Forget great <hi>Priam</hi>'s happy State,</l>
+                     <l>And let thy Mind be levell'd to thy Fate.</l>
+                     <l>Come, kneel; and if thou canſt not ſee,</l>
+                     <l>Nor feel the burden of thy Miſery,</l>
+                     <l>Yet maiſt thou learn to weep from Me.</l>
+                     <l>
+                        <hi>Troy</hi> long before, a Prince's Tears has ſeen;</l>
+                     <l>Nor have they unſucceſsful been;</l>
+                     <l>For they even <hi>Hercules</hi> could win:</l>
+                     <pb n="28" facs="tcp:50745:19"/>
+                     <l>The mighty <hi>Hercules,</hi> whoſe Name</l>
+                     <l>Employs the willing Voice of Fame,</l>
+                     <l>Who Thither went, and Thence return'd, whence never Mortal came.</l>
+                     <l>Mov'd with his harmleſs Enemies Tears,</l>
+                     <l>Forgot his Wrongs, and cur'd all <hi>Priam</hi>'s Fears.</l>
+                     <l>Govern, ſaid He, thy faithleſs Fathers Land,</l>
+                     <l>But Rule it with a juſter Hand.</l>
+                     <l>Thus was He ſetled in his Throne,</l>
+                     <l>And by his Father's Sufferings gain'd a Crown.</l>
+                     <l>
+                        <stage>
+                           <hi>To</hi> Ulyſſes.</stage> Learn from <hi>Alcides'</hi> Anger to be Kind.</l>
+                     <l>Or can his fatal Arms alone content Your Mind?</l>
+                     <l>Before Your Feet no leſs a Suppliant lies,</l>
+                     <l>With lift-up Hands, and down caſt Eyes.</l>
+                     <l>Let Him his Life alone enjoy;</l>
+                     <l>We care not what becomes of <hi>Troy.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>
+                     <stage>Aſide.</stage> What Rock theſe Sighs and Prayers unmov'd could hear?</l>
+                  <l>But all the <hi>Grecian</hi> Dames with me muſt fear:</l>
+                  <l>His Life may coſt each Mother many a Tear.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Can this great Pile be rais'd by ſuch a Boy?</l>
+                  <l>Can theſe weak Hands re-build, or fight for <hi>Troy?</hi>
+                  </l>
+                  <l>Or can theſe Arms his tottering Country prop?</l>
+                  <l>No: 'twere a groundleſs, and a deſperate hope.</l>
+                  <l>Do we thus Low, and yet thus Dreadful lay?</l>
+                  <l>And can the Lion fear his helpleſs Prey?</l>
+                  <l>Can the great Father's Soul inſpire the Son?</l>
+                  <l>Th' Effect remains not, when its Cauſe is gone.</l>
+                  <l>His Father's Fate a braver mind would quell,</l>
+                  <l>Fraught with the mighty burden of his ills.</l>
+                  <pb n="29" facs="tcp:50745:19"/>
+                  <l>Rather than Periſh, let him ever lie</l>
+                  <l>Beneath the ſlaviſh Yoke of baſe Captivity.</l>
+                  <l>What Tyrant can this poor Requeſt deny?</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Then <hi>Calchas</hi> is that Tyrant, and not I.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>And dare You, vile Diſſembler, break Your word?</l>
+                  <l>Baſe man, whoſe Tongue is ſmoother than thy Sword,</l>
+                  <l>And ſharper too: We ſuffer not alone;</l>
+                  <l>But <hi>Greece</hi> it ſelf beneath thy Crafts does groan.</l>
+                  <l>Blaſpheme not Heav'n: Its Deities are more kind;</l>
+                  <l>By Thee alone this Miſchief was deſign'd.</l>
+                  <l>Go, Midnight-Souldier; go diſſembling Scout:</l>
+                  <l>In the Sun's face thou dar'ſt not venture out.</l>
+                  <l>Go, ſet Your mighty VVit againſt a Boy,</l>
+                  <l>VVho, could he wield a Sword, ſhould Conquer Thee.</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <lg>
+                     <l>
+                        <hi>Greece</hi> knows my Proweſs enough, and <hi>Troy</hi> too well.</l>
+                     <l>VVhat You have ſuffer'd, ſure I need not tell.</l>
+                  </lg>
+                  <lg>
+                     <l>But, while in fruitleſs words I loſe the Day,</l>
+                     <l>The winds ſwell all our Sails, and chide my ſtay.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Hold! whilſt this laſt, this parting Kiſs I pay.</l>
+                  <l>Let me with Tears be-dew that lovely Face:</l>
+                  <l>Let me, Oh! let me die in his Embrace.</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>I w'd gladly, if I might, this Loſs retrieve,</l>
+                  <l>But take the only Favour I can give,</l>
+                  <l>And freely uſe the wretched power to Grieve.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>
+                     <stage>
+                        <hi>To</hi> Aſtyanax</stage> Thou laſt great Martyr, that muſt die for <hi>Troy,</hi>
+                  </l>
+                  <l>My much lov'd <hi>Hector</hi>'s no leſs lovely Boy,</l>
+                  <l>How have I promis'd Thee the happineſs</l>
+                  <l>Of <hi>Priam</hi>'s Years, and <hi>Hector</hi>'s great Succeſs!</l>
+                  <pb n="30" facs="tcp:50745:20"/>
+                  <l>But Heav'n with ſcorn on all my Prayers look'd down,</l>
+                  <l>And now that Head muſt never wear a Crown.</l>
+                  <l>Ne'er muſt thoſe tender Hands a Scepter wield;</l>
+                  <l>Never, Oh! never thy poor Country ſhield.</l>
+                  <l>Oft have I wiſh'd (but Oh! I wiſh'd in vain!)</l>
+                  <l>By Thee t' have ſeen the cruel <hi>Pyrrhus</hi> ſlain,</l>
+                  <l>And in the Son, Revenge upon the Father ta 'en.</l>
+                  <l>The foaming Boar thou never wilt purſue,</l>
+                  <l>And teach us what thy riper Years might do.</l>
+                  <l>Nor in the ſolemn Pomp o' th' Luſtral Year,</l>
+                  <l>Bravely i'th' head of all thy Mates appear,</l>
+                  <l>And <hi>Ilium</hi>'s Fate, our loſt <hi>Palladium</hi> bear.</l>
+                  <l>Nor in great <hi>Dyndimene</hi>'s hallow'd Grove</l>
+                  <l>Wilt Thou to th' Muſick's tuneful meaſures move.</l>
+                  <l>O diſmal Fate! Our guilty walls muſt ſee,</l>
+                  <l>Than <hi>Hector</hi>'s Death a greater Cruelty.</l>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Madam, in vain your Time and Tears you ſpend:</l>
+                  <l>Your Sorrows are too great to find an End.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <lg>
+                     <l>Oh! let theſe Tears, the Meſſengers of Grief,</l>
+                     <l>Seal the dear Infant's Eyes, whilſt yet h' has Life.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <stage>
+                           <hi>To</hi> Aſtyanax.</stage> Go, fearleſs, go, no longer now a ſlave:</l>
+                     <l>Brave, though thou'rt Young, and Dreadful in the Grave.</l>
+                     <l>Go, ſee thy Father; Death will ſet Thee free,</l>
+                     <l>And looſe the tedious Bonds of Life and Slavery.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Ast.</speaker>
+                  <lg>
+                     <l>Oh! help me, Mother!—</l>
+                     <l>Why doſt catch my Hand?</l>
+                     <l>What Power, what force, can Heav'n and <hi>Greece</hi> with<g ref="char:EOLhyphen"/>ſtand?</l>
+                  </lg>
+                  <pb n="31" facs="tcp:50745:20"/>
+                  <lg>
+                     <l>Juſt ſo the tender Heifer, when ſhe hears</l>
+                     <l>The Lion's voice, with trembling haſt retires,</l>
+                     <l>And by her Mothers ſide lays down her fears.</l>
+                     <l>But when her kind Protectreſs once is gone,</l>
+                     <l>And the poor helpleſs Captive is alone,</l>
+                     <l>The angry Beaſt with cruel ſport does play</l>
+                     <l>With his ſmall Prize, then ſnatches it away.</l>
+                  </lg>
+                  <lg>
+                     <l>Here! Theſe dear Tokens to my <hi>Hector</hi> bear:</l>
+                     <l>Theſe Tears—theſe Kiſſes—and theſe Locks of Hair.</l>
+                     <l>Nay, chide him too; for if (as there muſt need)</l>
+                     <l>The care of them that Live does reach the Dead,</l>
+                     <l>And with their Souls, their Love too is not fled.</l>
+                     <l>Canſt Thou (Unkind!) thus long, thus tamely lie,</l>
+                     <l>An idle witneſs of my ſlavery?</l>
+                     <l>Cannot the force of all my Miſeries</l>
+                     <l>Break the firm Seals of thy clos'd Tomb, and Eyes?</l>
+                  </lg>
+                  <lg>
+                     <l>Here! take more Hair: my flaming Eyes are drain'd</l>
+                     <l>Of all the little moiſture that remain'd,</l>
+                     <l>Since <hi>Hector</hi>'s Death—Leave this ſad Legacy, <stage>His Mantle.</stage>
+                     </l>
+                     <l>And let it teach me to remember Thee.</l>
+                     <l>Touch'd by his Tomb, and Thee, 'tis doubly Dear;</l>
+                     <l>If the leaſt part of's ſacred Duſt is here,</l>
+                     <l>I'll cleanſe it with my Lips, and waſh it with a Tear.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Ulyſſ.</speaker>
+                  <l>Your Grief waſts Time: I can no longer ſtay.</l>
+                  <l>Go, ſnatch the peeviſh, lingering Brat away.</l>
+                  <stage>Exeunt.</stage>
+               </sp>
+               <pb n="32" facs="tcp:50745:21"/>
+               <sp>
+                  <speaker>CHORUS.</speaker>
+                  <l>WHither, Oh! whither muſt we fly?</l>
+                  <l>To what ſad Scene of new Captivity?</l>
+                  <l>Shall we to <hi>Phthia,</hi> or to <hi>Tempe</hi> go,</l>
+                  <l>And make that pleaſant Shade a Witneſs of our Woe?</l>
+                  <l>Or to <hi>Mothone,</hi> whoſe too fruitful Darts</l>
+                  <l>Have more than once gone through our Hearts?</l>
+                  <l>Or to the lofty <hi>Pelion</hi>'s Top,</l>
+                  <l>(Th' ambitious Giants ſtrongest Hope.)</l>
+                  <l>Where on ſome craggy Mount old <hi>Chiron</hi> laid,</l>
+                  <l>And to his liſtening Pupil play'd.</l>
+                  <l>Some warlike Tune his Courage did prepare,</l>
+                  <l>And made thoſe peaceful Arts the Inſtruments of War.</l>
+                  <l>To any Region let us run,</l>
+                  <l>So we may fatal <hi>Sparta</hi> ſhun.</l>
+                  <l>Oh! may we never <hi>Sparta</hi> ſee:</l>
+                  <l>
+                     <hi>Sparta</hi> the Cauſe of all our Miſery.</l>
+                  <l>Unhappy <hi>Hecube!</hi> whoſe hard Fate</l>
+                  <l>Thy wretched Age does captivate.</l>
+                  <l>Under what Tyrant muſt thou ſpend</l>
+                  <l>Thy days, till with thy Life, thy Miſeries find an end.</l>
+               </sp>
+            </div>
+            <div n="4" type="act">
+               <pb n="33" facs="tcp:50745:21"/>
+               <head>ACT IV.</head>
+               <stage>Enter <hi>Helen</hi> ſola.</stage>
+               <sp>
+                  <speaker>Helen.</speaker>
+                  <l>WHen angry Heav'n with Curſes does prepare</l>
+                  <l>To couple any inauſpicious Pair,</l>
+                  <l>Let after-Ages ſay, the ominous <hi>Helen</hi>'s there.</l>
+                  <l>
+                     <hi>Troy</hi>'s Nuptial, and its Funeral-Torch once more</l>
+                  <l>'Tis I muſt light: I muſt betray the poor</l>
+                  <l>Unhappy Bride; I'd done too much before,</l>
+                  <l>In my deſtructive Love of <hi>Paris:</hi> now</l>
+                  <l>I muſt betray his harmleſs Siſter too.</l>
+                  <l>Yes, I will do't; I'll fill her Soul with Joy:</l>
+                  <l>All glorious, and all chearful ſhe ſhall Die,</l>
+                  <l>So leſs her Fears, and leſs my Guilt will be.</l>
+               </sp>
+               <stage>
+                  <hi>Enter to Her</hi> Andromache, Hecuba, <hi>and</hi> Polyxena.</stage>
+               <lg>
+                  <l>
+                     <stage>
+                        <hi>To</hi> Polyxena</stage> Thou laſt fair Branch of <hi>Priam</hi>'s noble Stock,</l>
+                  <l>Rejoice; ſome kinder Deity does look</l>
+                  <l>With pity on your Sufferings, and prepares</l>
+                  <l>To crown Your Wiſhes, and to cure Your Fears.</l>
+                  <l>
+                     <hi>Pyrrhus</hi> muſt be Your Bridegroom 'tis the voice</l>
+                  <l>Of <hi>Greece,</hi> and Heav'n it ſelf confirms our Choice.</l>
+                  <pb n="34" facs="tcp:50745:22"/>
+                  <l>Each happy God will be Your great Ally,</l>
+                  <l>And every Goddeſs in his Parent-Sea.</l>
+               </lg>
+               <lg>
+                  <l>Come, dry thoſe Tears, thoſe mournful Garments leave,</l>
+                  <l>And this glad Livery of Joy receive.</l>
+                  <l>With Care your torn, diſhevell'd Treſſes place,</l>
+                  <l>And ſet forth all the Beauties of Your Face.</l>
+                  <l>Your ſubt'leſt Art, Your ſtrongeſt Charms employ,</l>
+                  <l>And let Your Conqueror feel the Conqueſt of Your Eye.</l>
+               </lg>
+               <sp>
+                  <speaker>And.</speaker>
+                  <lg>
+                     <l>Too long indeed we've Strangers been to Joy</l>
+                     <l>See how the greedy Flames ſtill feed on <hi>Troy.</hi>
+                     </l>
+                     <l>Oh! 'tis a glorious Sight how well twould prove</l>
+                     <l>The Scene not of our Sorrow, but our Love!</l>
+                  </lg>
+                  <lg>
+                     <l>Go, quickly go, twere Treaſon not t' obey</l>
+                     <l>Theſe Summons, when fan <hi>Helen</hi> bids away.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <stage>
+                           <hi>To</hi> Helen.</stage> Thou equal Plague to <hi>Greece,</hi> and <hi>Ilium</hi> too,</l>
+                     <l>Canſt thou unmov'd behold this diſmal Show</l>
+                     <l>Of catter'd Bones? Canſt thou ſee <hi>Paris</hi> Tomb</l>
+                     <l>Yet freſh, and can that treach rous Heart find room</l>
+                     <l>For Love and Nuptials? See, on every Plain,</l>
+                     <l>The Men, whom thy adulterous Love has ſlain,</l>
+                     <l>Unburied, and unpiti'd long have lain.</l>
+                     <l>For Thee, thou glorious Whore, the richeſt Blood</l>
+                     <l>Of <hi>Troy</hi> was ſpilt, whilſt unconcern'd You ſtood,</l>
+                     <l>And from our Walls, ſcarce weeping at the Sight,</l>
+                     <l>Beheld Your two unhappy Husbands fight,</l>
+                     <l>And knew not which to favour—</l>
+                  </lg>
+                  <lg>
+                     <l>Go, Let the Bridal-Bed be quickly made,</l>
+                     <l>Let all the richeſt Ornaments be laid!</l>
+                     <pb n="35" facs="tcp:50745:22"/>
+                     <l>What need we Flames, the happy Pair to light?</l>
+                     <l>What need we Torches, when <hi>Troy</hi> burns ſo bright?</l>
+                     <l>Nay, Muſick too their Nuptial Rites ſhall grace;</l>
+                     <l>And Sighs, and hollow Groans ſhall fill the Place.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <l>Though Minds thus full of woe no words can move,</l>
+                  <l>And Grief its fellow ſufferers beſt does love,</l>
+                  <l>Do You impartial Judges of my Sorrows prove.</l>
+                  <l>
+                     <stage n="a">
+                        <hi>To</hi> An<g ref="char:EOLhyphen"/>dromache.</stage> You ſhed for <hi>Hector;</hi>
+                     <stage n="b">
+                        <hi>To</hi> Hecu<g ref="char:EOLhyphen"/>ba.</stage> You for <hi>Priam</hi> Tears.</l>
+                  <l>Alas! my Griefs are greater, and my Fears.</l>
+                  <l>And leſt the jealous Prince my Tears ſhould ſee,</l>
+                  <l>I dare not Weep for <hi>Paris,</hi> though He Di'd for Me.</l>
+                  <l>Thus am I envi'd even my Miſery.</l>
+                  <l>Great were Your Sufferings, but Your Fears are paſt:</l>
+                  <l>Leſs were my Sorrows, if they were my Laſt.</l>
+                  <l>Great is Your Number, and Your Troubles few;</l>
+                  <l>I ſuffer from the Conqueror, and the Conquer'd too.</l>
+                  <l>All other Captives kinder Maſters have,</l>
+                  <l>But I muſt be my cruel Husband's ſlave.</l>
+                  <l>Juſtly might <hi>Troy,</hi> and You have curs'd my Name,</l>
+                  <l>Had I unſought, unfetch'd to <hi>Paris</hi> came:</l>
+                  <l>But ſince to Violence I was made a Prey,</l>
+                  <l>And from my Friends and Country forc'd away,</l>
+                  <l>Blame Your own <hi>Paris,</hi> whoſe unhappy voice</l>
+                  <l>Firſt favour'd <hi>Venus,</hi> then made Me his fatal Choice.</l>
+                  <l>My Husbands Cenſure I muſt undergo,</l>
+                  <l>He'll be my Judge, and my Accuſer too.</l>
+                  <lg>
+                     <l>Ceaſe, fair <hi>Andromache,</hi> a while to grieve,</l>
+                     <l>And comfort Her: my Tears won't give Me leave.</l>
+                  </lg>
+               </sp>
+               <pb n="36" facs="tcp:50745:23"/>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Sure ſome great Evil's nigh, when She can Weep;</l>
+                  <l>But She's a <hi>Grecian:</hi> the Deſign's too deep,</l>
+                  <l>For Me to fathom.—Say, what new Command</l>
+                  <l>
+                     <stage>
+                        <hi>To</hi> Helen</stage> You bring from <hi>Greece:</hi> what miſchiefs now in hand?</l>
+                  <l>Say, muſt this helpleſs Virgin too be thrown</l>
+                  <l>From <hi>Ida</hi>'s Top, or from ſome Turret down?</l>
+                  <l>Or muſt She from ſome Cliff's vaſt Precipice</l>
+                  <l>Be rudely caſt into the neighbouring Seas?</l>
+                  <l>Say, fair Deceiver, what new Treaſon lies</l>
+                  <l>Under the flattering Tears of thoſe falſe Eyes?</l>
+                  <l>Nay, ſpeak thy worſt: for ſure there can't be worſe;</l>
+                  <l>And <hi>Pyrrhus'</hi> Nuptials are our greateſt Curſe</l>
+                  <l>We ask not Life: (too long, alas! we've liv'd;)</l>
+                  <l>But only beg our Mileries be n't deceiv'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <l>Wou'd the great Oracle of <hi>Greece</hi> would bid</l>
+                  <l>Me leave this hated Life, and for Her Bleed!</l>
+                  <l>Wou'd I might ſhare, or elſe prevent her Doom,</l>
+                  <l>And for Her be eſpous'd to great <hi>Achilles'</hi> Tomb.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <lg>
+                     <l>See, how unmov'd the diſmal News ſhe hears,</l>
+                     <l>With joyful haſt for Nuptials ſhe prepares,</l>
+                     <l>And leſs his Tomb, than his Son's Bed ſhe fears.</l>
+                  </lg>
+                  <lg>
+                     <l>But her poor Mother ſinks beneath her Grief:</l>
+                     <l>She faints! Oh! let us ſoon recall her Life,</l>
+                     <l>And chear her drooping Spirits—She ope's her Eyes,</l>
+                     <l>And Death's afraid to eaſe her Miſeries.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hec.</speaker>
+                  <lg>
+                     <l>Lives then <hi>Achilles</hi> ſtill to work me Harm?</l>
+                     <l>Oh! the weak force of wretched <hi>Paris</hi> Arm!</l>
+                     <l>Can't his Immortal Anger be withſtood?</l>
+                     <l>But muſt his cruel Aſhes thirſt for Blood?</l>
+                     <pb n="37" facs="tcp:50745:23"/>
+                     <l>But now encompaſs'd with a numerous Crowd</l>
+                     <l>Of all my happy Progeny I ſtood,</l>
+                     <l>And equally to All my Kiſſes I beſtow'd.</l>
+                     <l>Now this poor Girl, of All, remains alone,</l>
+                     <l>And with the Reſt, my Hopes and Joys are gone:</l>
+                     <l>Now She alone can call me Mother—</l>
+                  </lg>
+                  <lg>
+                     <l>Dear Girl, come hither—Oh! how I deſire</l>
+                     <l>Amidſt thy lov'd Embraces to expire!</l>
+                     <l>See, ſee, in pity of my Ills, ſhe cries.</l>
+                     <l>Let none but Tears of Joy bedew thoſe Eyes.</l>
+                     <l>Come, let me kiſs thoſe lovely Pearls away.</l>
+                     <l>How would <hi>Caſſandra</hi> for ſuch Nuptials pray!</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>'Tis We, dear Mother, We alone muſt grieve,</l>
+                  <l>Whom where they pleaſe, the faithleſs Winds muſt drive.</l>
+                  <l>Whilſt happier She i' th' ſilent Grave is laid.</l>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <l>Knew You Your Fate, You w'd think the beau<g ref="char:EOLhyphen"/>teous Maid</l>
+                  <l>Still happier—</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Sure my Ills I ha'n't forgot.</l>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <l>Then know, You're made unhappy ſlaves t'a Lot.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Which of my Conquerors muſt I Maſter call?</l>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <l>Madam, to happy <hi>Pyrrhus</hi> ſhare You fall.</l>
+               </sp>
+               <sp>
+                  <speaker>Hec.</speaker>
+                  <l>Happy <hi>Caſſandra!</hi> Sure her Rage will ſave</l>
+                  <l>Her Honour: She, I hope, is no man's ſlave.</l>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <l>The King choſe Her—</l>
+               </sp>
+               <sp>
+                  <speaker>Hec.</speaker>
+                  <l>And whom muſt I obey?</l>
+               </sp>
+               <sp>
+                  <speaker>Hel.</speaker>
+                  <l>You are unwilling <hi>Ithacus</hi>'s Prey.</l>
+               </sp>
+               <sp>
+                  <speaker>Hec.</speaker>
+                  <lg>
+                     <l>And muſt I fall beneath a Prince's hand?</l>
+                     <l>Blind Deities! why could Ye not command</l>
+                     <pb n="38" facs="tcp:50745:24"/>
+                     <l>The fatal Lots more equally to fall?</l>
+                     <l>Ye might have been more Iuſt, though not more King to all.</l>
+                  </lg>
+                  <lg>
+                     <l>Muſt I again my <hi>Hector</hi>'s Armour ſee,</l>
+                     <l>And with the fight renew my Miſery?</l>
+                     <l>And bluſh more at my Maſter, than my ſlavery?</l>
+                     <l>Now I am truly wretched—Yes, I'll go:</l>
+                     <l>But may my uſual Fate go with me too.</l>
+                  </lg>
+                  <lg>
+                     <l>May ſome great Tempeſt ſwell the raging Sea,</l>
+                     <l>And may the Winds be mercileſs as They.</l>
+                     <l>May all the mighty Ills which I have born,</l>
+                     <l>Doubly upon my Conquerors Heads return.</l>
+                     <l>If Heav'n grant this, no longer I'll repine,</l>
+                     <l>But think Their Sufferings a Reward for Mine.</l>
+                  </lg>
+                  <lg>
+                     <l>But ſee, fierce <hi>Pyrrhus</hi> haſtens to the Place,</l>
+                     <l>Big with Revenge and Anger in his Face.</l>
+                     <l>Let Me be wedded to thy Father's Grave,</l>
+                     <l>And rid <hi>Ulyſſes</hi> of a hated ſlave.</l>
+                     <l>You kill'd Old <hi>Priam:</hi> pray diſpatch me too.</l>
+                     <l>Sure I am Old enough to die by You.</l>
+                  </lg>
+                  <lg>
+                     <l>Go, thou baſe Murderer, inhumane Prieſt,</l>
+                     <l>And glut the oruel Gods with ſuch a Feaſt.</l>
+                  </lg>
+                  <lg>
+                     <l>Great as my Ills, what Curſe ſhall I invent?</l>
+                     <l>What heavy, new, unheard of Puniſhment?</l>
+                     <l>May You for ever want a Proſperous Gale:</l>
+                     <l>May none but bluſt'ring <hi>Boreas</hi> fill Your Sails,</l>
+                     <l>And nought but Grief Your Boſoms—This on All:</l>
+                     <l>But on <hi>Ulyſſes</hi> Ship may heavier Curſes fall.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <pb n="39" facs="tcp:50745:24"/>
+                  <speaker>CHORUS.</speaker>
+                  <l>LEſs are the Griefs we undergo,</l>
+                  <l>When they are felt by Others too,</l>
+                  <l>Leſs are our Sorrows, leſs our Fears,</l>
+                  <l>The more our Company appears.</l>
+                  <l>Great Griefs, like Burdens, are more light,</l>
+                  <l>The more there are to ſhare the Wright.</l>
+                  <l>And none, with Juſtice, can refuſe</l>
+                  <l>To bear the Fortune Others uſe.</l>
+                  <l>Take from the Rich their Gold away,</l>
+                  <l>And Poor men are as good as They.</l>
+                  <l>When we ſee happier Men, we grieve,</l>
+                  <l>And all our Sorrows are Comparative.</l>
+                  <l>'Tis this does all our Sufferings eaſe,</l>
+                  <l>To ſee that Others bear no leſs.</l>
+                  <l>He only does his Fate bemoan,</l>
+                  <l>Who in a ſingle Ship alone</l>
+                  <l>Has plough'd the Seas; and after ſome great Wrack,</l>
+                  <l>With a light Ship, and heavy Heart comes back.</l>
+                  <l>Who ſees the Dangers of a ſinking Fleet,</l>
+                  <l>Thinks not his Sufferings are ſo great.</l>
+                  <l>H' has this ſad Comfort of his Miſery,</l>
+                  <l>That All, as well as He, muſt die.</l>
+                  <l>When the proud Maſter of the Golden Fleece,</l>
+                  <l>With his dear Burden croſs'd the Seas,</l>
+                  <l>
+                     <hi>Phryxus</hi> with Tears ſaw <hi>Helle</hi> drown:</l>
+                  <l>Well might he weep, when he was left Alone.</l>
+                  <pb n="40" facs="tcp:50745:25"/>
+                  <l>So, when the only honeſt Pair,</l>
+                  <l>That could our wretched Race repair,</l>
+                  <l>Of all Mankind alone remain'd,</l>
+                  <l>Each happy in the Other, ne'er complain'd.</l>
+                  <l>Thus, by our Conquerors, when we're ſnatch'd away,</l>
+                  <l>A helpleſs, but a numerous Prey;</l>
+                  <l>The Wind ſhall ſcatter all our Tears,</l>
+                  <l>Our Number ſhall ſecure our Fears.</l>
+                  <l>What ſhall we ſay, when on the Deck we ſtand,</l>
+                  <l>And from a-far behold the leſſ'ning Land?</l>
+                  <l>What ſhall we think, when <hi>Ida</hi>'s Tops grow leſs,</l>
+                  <l>And with the Seas, our Fears increaſe?</l>
+                  <l>And, when our Sons ſhall ſeek their Native Land,</l>
+                  <l>Each wretched Mother, pointing with her hand,</l>
+                  <l>(The Tears ſtill trickling from her Eyes,)</l>
+                  <l>Shall cry, See, yonder <hi>Ilium</hi> lies,</l>
+                  <l>Where thoſe black Clouds of curling Smoak do riſe.</l>
+               </sp>
+            </div>
+            <div n="5" type="act">
+               <head>ACT V.</head>
+               <stage>Enter <hi>Andromache,</hi> and <hi>Hecuba,</hi> and to them a Meſſenger.</stage>
+               <sp>
+                  <speaker>Meſſenger.</speaker>
+                  <l>OH! horrid, cruel Tyranny of Death!</l>
+                  <l>My very News has put me out of Breath.</l>
+                  <l>What Thing ſo ſad has happen'd any Year,</l>
+                  <l>As neither I dare Speak, nor You can Hear?</l>
+                  <l>Oh! ask not that which in a Womans Ear,</l>
+                  <l>Would make another Murder—</l>
+               </sp>
+               <pb n="41" facs="tcp:50745:25"/>
+               <sp>
+                  <speaker>Hec.</speaker>
+                  <l>Speak the worſt.</l>
+                  <l>With greater Sorrows, ſure I can't be curs'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Meſſ.</speaker>
+                  <l>Your<stage n="a">
+                        <hi>To</hi> Hecuba.</stage> Daughter, and your<stage n="b">
+                        <hi>To</hi> Andromache.</stage> Son, are now no more:</l>
+                  <l>But Both with Conſtancy their Sufferings bore.</l>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Deſcribe the diſmal Scene, but be not brief;</l>
+                  <l>Speak all: for I am harden'd now with Grief.</l>
+                  <l>Be plain, and each Particular declare,</l>
+                  <l>For I can hear it all without a Tear.</l>
+               </sp>
+               <sp>
+                  <speaker>Meſſ.</speaker>
+                  <lg>
+                     <l>There is a Tower from the Flames fury free,</l>
+                     <l>Spar'd only for this greater Cruelty,</l>
+                     <l>On whoſe high Top Old <hi>Priam</hi> us'd to ſtand,</l>
+                     <l>And with his Eye, and Voice our Troops command,</l>
+                     <l>Here with his Princely Grand-child oft he ſtood,</l>
+                     <l>And to the Boy his Father's Battels ſhow'd.</l>
+                     <l>This Tower has once our chiefeſt Bulwark been:</l>
+                     <l>'Tis now of Blood and Death the diſmal Scene.</l>
+                     <l>Hither the giddy Rabble flock'd to ſee</l>
+                     <l>With greedy Eyes the Royal Infant die.</l>
+                     <l>From this high Tower a pretty diſtant ſpace,</l>
+                     <l>A ſteep and lofty Hill commands the Place.</l>
+                     <l>On That a Rock, on which the gazing Crowd,</l>
+                     <l>Big with the cruel Expectation, ſtood.</l>
+                     <l>On all the neighbouring Trees, whole Armies ſate:</l>
+                     <l>(The loaded Branches crack'd beneath their weight.)</l>
+                     <l>And one with haſt ſome ragged Mount does climb:</l>
+                     <l>Another (Oh! the ſacrilegious Crime!)</l>
+                     <l>Stands on great <hi>Hector</hi>'s Tomb; One climbs a Wall,</l>
+                     <l>Which, with its wretched weight does fall.</l>
+                  </lg>
+                  <lg>
+                     <l>Lo! the Preſs breaks; and big with cruel Joy</l>
+                     <l>The curs'd <hi>Ulyſſes</hi> leads the Princely Boy.</l>
+                     <pb n="42" facs="tcp:50745:26"/>
+                     <l>Th' undaunted Youth mounts fearleſs to the Place,</l>
+                     <l>With Innocence triumphant in his Face.</l>
+                     <l>When from the Tower he ſaw the gazing Rout,</l>
+                     <l>Round him he flung a ſcornful Look about.</l>
+                     <l>So ſome fierce Lion's whelp, whoſe tender Age</l>
+                     <l>Has not as yet well arm'd his toothleſs Rage,</l>
+                     <l>With eager Fury whets his horny Claws,</l>
+                     <l>And tries the utmoſt anger of his Jaws.</l>
+                     <l>Thus fearleſs the young Martyr thither came,</l>
+                     <l>And fill'd his cruel Enemies with Shame.</l>
+                     <l>This, when they ſaw, ſtraight the relenting Crowd</l>
+                     <l>In ſighs and tears expreſs'd their Grief aloud:</l>
+                     <l>Nay, even <hi>Ulyſſes</hi> wept, and 'ſpight of all</l>
+                     <l>His Cruelty, reſiſtleſs Tears did fall.</l>
+                     <l>Then, when the cruel Sacrifice was done,</l>
+                     <l>Piti'd by All, Himſelf unmov'd alone,</l>
+                     <l>Down the deep Precipice himſelf He caſt,</l>
+                     <l>And 'midſt his Countries Ruines breath'd his Laſt.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>What barbarous cruel <hi>Colehian</hi> e'er could hear,</l>
+                  <l>Much leſs perform ſuch Crimes? What <hi>Scythian</hi> dare</l>
+                  <l>But think upon this Murder, and not Fear?</l>
+                  <l>To be compar'd with Theſe, <hi>Buſiris</hi> was too good:</l>
+                  <l>His Altars ne'er were ſtain'd with Infants Blood.</l>
+                  <l>This was a Crime unknown to <hi>Diomede;</hi>
+                  </l>
+                  <l>He with ſuch tender meat his Horſes ſcorn'd to feed.</l>
+                  <l>Dear Child! to what ſierce Beaſt art' made a Prey?</l>
+                  <l>Where ſhall thy mangled, ſcatter'd Members lay?</l>
+               </sp>
+               <sp>
+                  <speaker>Meſſ.</speaker>
+                  <l>Talk not of Them: when from the Tower he flew,</l>
+                  <l>The Fall deſtroy'd both Life, and Carkaſs too.</l>
+                  <l>His innocent Blood the guilty Turret ſtains:</l>
+                  <l>He ſprinkled all the <hi>Grecians</hi> with his Brains,</l>
+                  <l>And nothing now of the dear Boy remains.</l>
+               </sp>
+               <pb n="43" facs="tcp:50745:26"/>
+               <sp>
+                  <speaker>And.</speaker>
+                  <l>Still like his Father—</l>
+               </sp>
+               <sp>
+                  <speaker>Meſſ.</speaker>
+                  <lg>
+                     <l>When this was done, at firſt the Rabble mourn'd,</l>
+                     <l>But to a greater Cruelty return'd.</l>
+                     <l>With eager haſt the thronging <hi>Grecians</hi> came,</l>
+                     <l>And flock about the curs'd <hi>Achilles'</hi> Tomb.</l>
+                     <l>This place was deſtin'd for the Scene of Blood.</l>
+                     <l>On two near Hills the gazing Army ſtood:</l>
+                     <l>Between a fatal Valley ſtretch'd out wide,</l>
+                     <l>And Groves of Spears appear'd on every ſide,</l>
+                     <l>Here for the beauteous Bride they all attend,</l>
+                     <l>Some glad that with her Life, their Fears muſt end:</l>
+                     <l>Some, that ſhe was the laſt of <hi>Priam</hi>'s ſtock:</l>
+                     <l>Some ſeem to hate the Crime, on which they gladly look:</l>
+                     <l>And here and there a <hi>Trojan</hi> did appear,</l>
+                     <l>Who came to ſee her die, and ſhed a Tear.</l>
+                  </lg>
+                  <lg>
+                     <l>Then through a Lane of <hi>Grecians,</hi> in a row,</l>
+                     <l>Before the Bride Five Nuptial Torches go.</l>
+                     <l>Next, <hi>Helen</hi> follow'd, hanging down her Head.</l>
+                     <l>(Oh! may <hi>Hermione</hi> ſuch a Husband wed!)</l>
+                     <l>Straight She appear'd alone, with Looks might move</l>
+                     <l>Grief in each <hi>Trojan,</hi> in each <hi>Grecian</hi> Love.</l>
+                     <l>Her Eyes ſhe turn'd with modeſt ſorrow down,</l>
+                     <l>And in her Face unuſual Beauties ſhone:</l>
+                     <l>So Evening Bluſhes grace the ſetting Sun.</l>
+                     <l>Her Courage ſome, and ſome her Beauty prais'd,</l>
+                     <l>But all with various Paſſions ſtrangely gaz'd,</l>
+                     <l>Some ſad, ſome ſham'd, ſome weeping, all amaz'd.</l>
+                  </lg>
+                  <lg>
+                     <l>Thus in ſlow ſtate the mournful Train was come,</l>
+                     <l>Where <hi>Pyrrhus</hi> ſtanding on his Father's Tomb,</l>
+                     <l>With joyful anger held the fatal Knife,</l>
+                     <l>Prepar'd to cut the tender Thread of Life.</l>
+                     <pb n="44" facs="tcp:50745:27"/>
+                     <l>Fearleſs She look'd her Murderers in the Face,</l>
+                     <l>Whilſt ſilent ſorrow fill'd a round the Place.</l>
+                     <l>Mov'd at her God-like Conſtancy, He ſhook,</l>
+                     <l>And ſcarce had Courage left to give the ſtroke,</l>
+                     <l>Straight as the cruel weapon reach'd her Heart,</l>
+                     <l>A ſtreaming ſpring of Vital Blood did ſtart</l>
+                     <l>Through the wide wound. She ſtill out brav'd her Fate,</l>
+                     <l>And made <hi>Achilles'</hi> Aſhes groan beneath her weight.</l>
+                  </lg>
+                  <lg>
+                     <l>What Tongue the Grief, and Horror can expreſs,</l>
+                     <l>Which did both Parties equally poſſeſs?</l>
+                     <l>In ſilent Tears their Griefs the <hi>Trojans</hi> ſhow'd:</l>
+                     <l>The howling <hi>Grecians</hi> ſpake their Pity Loud.</l>
+                     <l>About the Tomb, at firſt the Deluge flow'd,</l>
+                     <l>And ſtraight the thirſty Aſhes drank the ſinking Blood.</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Hec.</speaker>
+                  <l>Go, barbarous <hi>Grecians,</hi> now ſecurely go,</l>
+                  <l>And let your ſwelling Canvaſe looſely flow.</l>
+                  <l>Now boaſty have murder'd all the hopes of <hi>Troy,</hi>
+                  </l>
+                  <l>Y' have kill'd a harmleſs Virgin, and a helpleſs Boy.</l>
+                  <lg>
+                     <l>Whither! Oh! whither ſhall I bear my Grief?</l>
+                     <l>Where ſpend the Remnant of my hated Life?</l>
+                     <l>Shall I for <hi>Priam,</hi> or for <hi>Hector</hi> groan?</l>
+                     <l>Or for them All? Or for My ſelf alone?</l>
+                     <l>Come, welcom: Death, thou beſt, thou only Cure</l>
+                     <l>Of all I muſt, or all I do endure.</l>
+                     <l>From Me alone the cruel Tyrant runs:</l>
+                     <l>And midſt theſe Swords, and Flames a wretched Captive ſhuns.</l>
+                     <l>Why, cruel <hi>Grecians,</hi> why was I preſerv'd?</l>
+                     <l>To what freſh Miſeries am I ſtill reſerv'd?</l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Meſſ.</speaker>
+                  <l>We muſt be gone: for ſee, the <hi>Grecian</hi> Sails</l>
+                  <l>Are looſen'd to receive the flying Gales.</l>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed,</p>
+            <closer>
+               <date>
+                  <hi>Feb.</hi> 5. 1681.</date>
+               <signed>Ro. L'Eſtrange.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
